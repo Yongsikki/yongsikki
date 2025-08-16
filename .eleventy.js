@@ -560,6 +560,16 @@ module.exports = function (eleventyConfig) {
   });
 
   userEleventySetup(eleventyConfig);
+  eleventyConfig.addGlobalData("eleventyComputed", {
+  permalink: (data) => {
+    if (data.page.inputPath && data.page.inputPath.endsWith(".md")) {
+      const fileSlug = data.page.fileSlug;
+      const folder = data.page.inputPath.includes("/notes/") ? "notes" : "source";
+      return `/${folder}/${fileSlug}/index.html`;
+    }
+    return data.permalink; // 이미 frontmatter에 permalink가 있으면 그대로 사용
+  },
+});
 
   return {
     dir: {
