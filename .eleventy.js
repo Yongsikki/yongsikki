@@ -559,15 +559,30 @@ module.exports = function (eleventyConfig) {
     },
   });
 
-  userEleventySetup(eleventyConfig);
   eleventyConfig.addGlobalData("eleventyComputed", {
   permalink: (data) => {
-    if (data.page.inputPath && data.page.inputPath.endsWith(".md")) {
-      const fileSlug = data.page.fileSlug;
-      const folder = data.page.inputPath.includes("/notes/") ? "notes" : "source";
-      return `/${folder}/${fileSlug}/index.html`;
+    // dg-publish가 true가 아닌 노트는 원래 permalink 사용
+    if (!data.dgPublish) {
+      return data.permalink;
     }
-    return data.permalink; // 이미 frontmatter에 permalink가 있으면 그대로 사용
+
+    // inputPath에서 파일 정보 추출
+    const inputPath = data.page.inputPath || "";
+    const fileName = inputPath.split("/").pop().replace(".md", "");
+    
+    // 파일 이름 slug로 변환
+    const slugifiedFile = slugify(fileName);
+
+    // notes 폴더 안이면 /notes/slug, 아니면 /slug
+    let folder = "notes";
+    if (inputPath.includes("/notes/")) {
+      folder = "notes";
+    } else {
+      folder = "pages";
+    }
+
+    // 이렇게 하면 충돌 없이 각각 다른 index.html 생성
+    return `/${folder}/${slugifiedFile}/`;
   },
 });
 
