@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/archive/","tags":["digitalgarden","gardenEntry"],"created":"2025-07-22T18:31:14.226+09:00","updated":"2025-08-16T13:49:52.133+09:00"}
+{"dg-publish":true,"permalink":"/archive/","tags":["digitalgarden","gardenEntry"],"created":"2025-07-22T18:31:14.226+09:00","updated":"2025-08-20T10:41:34.395+09:00"}
 ---
 
 This is the 🏡homepage of Euna & Yongsik's 🌳garden🌼. 
 
 Euna & Yongsik's journal, blog and home — a space to record memories, store knowledge, and share our journey together. 
 
-## 🧠 Mir's Notes
+## 🧠 Notes
 >[!NOTE] Dash Board
 > [[Index/한림대학교성심병원\|한림대학교성심병원]] (7월 21일 입사) 
 
