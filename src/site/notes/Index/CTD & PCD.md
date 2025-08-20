@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/ctd-and-pcd/","created":"2025-08-20T11:21:27.424+09:00","updated":"2025-08-20T11:54:12.308+09:00"}
+{"dg-publish":true,"permalink":"/index/ctd-and-pcd/","created":"2025-08-20T11:21:27.424+09:00","updated":"2025-08-20T12:28:17.642+09:00"}
 ---
 
 # PCD(Percutaneous Catheter Draingae, 경피적 카테터 배액술)
@@ -98,7 +98,6 @@
 	- 배액량 및 양상 확인 후 기록
 	- 심호흡, 기침 격려(폐 허탈 예방 위해)
 - Bottle
-- ![(null)](file:///C:\Users\bmore\AppData\Local\Temp\cif00001.png)
 
 |구분|CTD (Closed Thoracostomy Drainage)|PCD (Percutaneous Catheter Drainage)|
 |---|---|---|
