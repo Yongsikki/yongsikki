@@ -1,10 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/archive/","tags":["digitalgarden","gardenEntry"],"created":"2025-07-22T18:31:14.226+09:00","updated":"2025-08-20T11:18:03.581+09:00"}
+{"dg-publish":true,"permalink":"/archive/","tags":["digitalgarden","gardenEntry"],"created":"2025-07-22T18:31:14.226+09:00","updated":"2025-08-20T11:20:49.384+09:00"}
 ---
-
-This is the 🏡homepage of Euna & Yongsik's 🌳garden🌼. 
-
-Euna & Yongsik's journal, blog and home — a space to record memories, store knowledge, and share our journey together. 
 
 ## 🧠 Notes
 >[!NOTE] Dash Board
@@ -32,12 +28,11 @@ Euna & Yongsik's journal, blog and home — a space to record memories, store kn
 - 🌌 [[Astronomy\|Astronomy]]
 - 🪐 [[Space\|Space]]
 - 🔬 [[Quantum Mechanics\|Quantum Mechanics]]
-- 🇦🇺 [[Learning Aussie English\|Learning Aussie English]]
 - 🚗 [[Automotive Engineering\|Automotive Engineering]]
 
 ### 📚 Meta & Tools
 - 📑 [[Notetaking\|Notetaking]]
-- 📕 [[Templates/Book Template\|Book Template]]
+- 📕 Book 
 - 🎧 [[Podcast\|Podcast]]
 - 🎥 [[Movie\|Movie]]
 
