@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/ctd/","tags":["source"],"created":"2025-08-20T11:21:27.424+09:00","updated":"2025-08-20T12:34:16.258+09:00"}
+{"dg-publish":true,"permalink":"/source/ctd/","tags":["source"],"created":"2025-08-20T11:21:27.424+09:00","updated":"2025-08-20T12:37:52.559+09:00"}
 ---
 
 
