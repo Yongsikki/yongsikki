@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/ctd-and-pcd/","created":"2025-08-20T11:21:27.424+09:00","updated":"2025-08-20T12:28:17.642+09:00"}
+{"dg-publish":true,"permalink":"/index/ctd-and-pcd/","created":"2025-08-20T11:21:27.424+09:00","updated":"2025-08-20T12:29:48.157+09:00"}
 ---
 
 # PCD(Percutaneous Catheter Draingae, 경피적 카테터 배액술)
