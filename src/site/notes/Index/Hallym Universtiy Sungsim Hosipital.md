@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-07-22T18:31:14.722+09:00","updated":"2025-08-20T12:31:37.145+09:00"}
+{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-07-22T18:31:14.722+09:00","updated":"2025-08-21T12:41:47.747+09:00"}
 ---
 
 ## [[Index/입사 체크리스트\|입사 체크리스트]]
@@ -13,4 +13,4 @@
 ## 이론
 - [[Index/CRRT\|CRRT]]
 - [[Source/Ventilator\|Ventilator]]
-- [[Source/CTD\|CTD]]
+- [[Source/CTD & PCD\|CTD & PCD]]
