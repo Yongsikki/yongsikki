@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/ctd-and-pcd/","tags":["source"],"created":"2025-08-20T11:21:27.424+09:00","updated":"2025-08-21T13:09:16.663+09:00"}
+{"dg-publish":true,"permalink":"/source/ctd-and-pcd/","tags":["source"],"created":"2025-08-20T11:21:27.424+09:00","updated":"2025-08-21T13:10:42.955+09:00"}
 ---
 
 # CTD
@@ -53,9 +53,9 @@
 	- 배액량 및 양상 확인 후 기록
 	- 심호흡, 기침 격려(폐 허탈 예방 위해)
 - Bottle
-	- ![](attachment/AC bottle.jpg)
-	- ![](attachment/two bottle.jpg)
-	- ![](attachment/A bottle.jpg)
+	- ![](attachments/AC bottle.jpg)
+	- ![](attachments/two bottle.jpg)
+	- ![](attachments/A bottle.jpg)
 # PCD 
 - 목적
 	- 복부 감염이나 농양 관찰 시 농양 배액과 빠른 상처 치유
