@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/working-flow/","tags":["acting","source"],"created":"2025-08-12T17:38:36.110+09:00","updated":"2025-08-20T11:11:19.189+09:00"}
+{"dg-publish":true,"permalink":"/source/working-flow/","tags":["acting","source"],"created":"2025-08-12T17:38:36.110+09:00","updated":"2025-08-21T13:40:11.711+09:00"}
 ---
 
 # Evening 
@@ -16,8 +16,9 @@
 	- [ ] 낙상(예방교육)
 	- [ ] 통증 평가
 	- [ ] 간호 중재
+- [ ] 신체 보호 & 강박 일지 
 - [ ] Inject 준비
-- [ ] 4pm Back care
+- [ ] 4pm: Back care, ABGA 결과 확인
 - [ ] 
 # Night
 - [ ] Count: CSR, 응급카트

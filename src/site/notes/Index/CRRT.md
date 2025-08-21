@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/crrt/","created":"2025-07-30T20:35:38.670+09:00","updated":"2025-08-20T11:12:49.761+09:00"}
+{"dg-publish":true,"permalink":"/index/crrt/","created":"2025-07-30T20:35:38.670+09:00","updated":"2025-08-21T13:19:17.378+09:00"}
 ---
 
 # Continous Renal Replacement Therapy
@@ -90,6 +90,18 @@
 4. 혈관 출혈 감염
 5. 전해질 불균형
 6. 공기색전증
+## CRRT 첫날 처방 기준
+- CVVHDF 삽입당일 O7001R (1,260,076원)
+	- cath 삽입로 + cath,wire,kit 포함된 묶음 처방
+	- ER or 병동에서 cath 삽입하고 와서 CRRT 시작하는 첫날 
+		- 사용한 장비에 맞는 kit 만 처방해서 우클릭
+	- ICU에서 Cath 삽입하고 CRRT 하는 첫날 
+		- O7001R(삽입당일) + cath, wire, kit 처방해서 우클릭
+	- 💡12시 전 cath 삽입하고 CRRT start 시간 날짜 익일로 넘어갈시에는 12시 전의 cath 삽입은 keep으로 device 넣고, CRRT 시작하는 시간으로 삽입 당일이랑 cath 처방 후 우클릭
+- CVVHDF 삽입당일 O7001 (1,043,326원) 재료대가 포함 안 된 삽입당일
+	- 이미 line 가지고 있었던 경우(ECMO, H-stick, Perm-cath 가지고 일반 투석 하고 있었던 경우) → O7001 + kit 처방(우클릭X)
+	- 💡dual-cath 교체없이 CRRT clot 되어 교체하는 경우는 priming하면서 쓴 재료만 처방 
+
 ## 기타 주의 사항
 - 💡키트 내 잔류 가능 혈액량: RBC 1Fint 
 - N/S 500 기계 쪽 빨간 Lumen 연결

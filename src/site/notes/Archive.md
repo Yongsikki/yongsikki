@@ -13,13 +13,13 @@
 > [!DANGER] 🧪 Learning Dashboard
 > 💉 [[Case Study/Nursing\|Nursing]]
 > 📘 [[Source/Math\|Math]] — *How to Prove It*
-⚛️ [[Physics\|Physics]] — *Six Easy Pieces*
+⚛️ [[Index/Physics\|Physics]] — *Six Easy Pieces*
 🌊 [[Marine Biology\|Marine Biology]] — *Intro to Marine Biology*
 🇦🇺 [[Learning Aussie English\|Learning Aussie English]] — YouTube + Podcast 
 
 ### 🎓 Studies
 - 🌊 [[Marine Biology\|Marine Biology]]
-- ⚛️ [[Physics\|Physics]]
+- ⚛️ [[Index/Physics\|Physics]]
 - 📘 [[Source/Math\|Math]]
 - 📈 [[Economics\|Economics]]
 - 🌍 [[History\|History]]

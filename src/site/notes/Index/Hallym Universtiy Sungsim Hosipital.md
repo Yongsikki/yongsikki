@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-07-22T18:31:14.722+09:00","updated":"2025-08-21T12:41:47.747+09:00"}
+{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-07-22T18:31:14.722+09:00","updated":"2025-08-21T21:13:46.413+09:00"}
 ---
 
 ## [[Index/입사 체크리스트\|입사 체크리스트]]
@@ -8,8 +8,10 @@
 ## [[Source/Drug Code\|Drug Code]]
 ## Acting
 - [[Source/Working Flow\|Working Flow]]
+- [[Source/High Flow\|High Flow]]
 ## EMR
 - [[Source/Record Example\|Record Example]]
+- [[Source/Fee\|Fee]]
 ## 이론
 - [[Index/CRRT\|CRRT]]
 - [[Source/Ventilator\|Ventilator]]

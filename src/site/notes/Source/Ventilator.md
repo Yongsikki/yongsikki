@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/ventilator/","tags":["source","study_note"],"created":"2025-08-02T15:19:21.838+09:00","updated":"2025-08-20T11:12:42.805+09:00"}
+{"dg-publish":true,"permalink":"/source/ventilator/","tags":["source","study_note"],"created":"2025-08-02T15:19:21.838+09:00","updated":"2025-08-21T13:53:38.343+09:00"}
 ---
 
 # Purpose
@@ -61,6 +61,14 @@
 
 ## 합병증
 ## 주요 알람 발생 대처 
-# Key Words
+# Fee
+- 약제 IDISTLP 중외멸균주사용증류수 1L/Bag
+- 처치 Artificial Ventilation → 시간 확인
+- 재료
+	-  AAC54495 CIRCUIT, BREATHING (EVAQUA2, ADULT) (RT2380)[K4501370]
+	- FILTER, BACTERIA (SERVO DUO GUARD)
+	- GAS, LO2(TANK LORRY)
+		- ventilator 첫날 적용 시 O2 처방 수량 ‘20’설정
+		- ventilator 적용 15일부터 수량 ‘15’설정  
 
 # SST
