@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/ventilator/","tags":["source","study_note"],"created":"2025-08-02T15:19:21.838+09:00","updated":"2025-08-21T13:53:38.343+09:00"}
+{"dg-publish":true,"permalink":"/source/ventilator/","tags":["source","study_note"],"created":"2025-08-02T15:19:21.838+09:00","updated":"2025-08-22T23:02:44.086+09:00"}
 ---
 
 # Purpose
@@ -72,3 +72,18 @@
 		- ventilator 적용 15일부터 수량 ‘15’설정  
 
 # SST
+## PB840
+1. 준비물
+	1. Circuit
+	2. Filter(날짜 기록, 3일마다 교체)
+	3. WIFI
+	4. ETCO2
+	5. Closed suction(1일마다 교체)
+	6. 신체보호대
+2. Circuit, filter, humidyfier 연결
+	1. 짧은 선 → humidify
+3. Filter 푼 상태로 전원 킴
+4. SST 클릭 → Test → Adult
+5. Filter 잠금wye block & accept 
+6. Vent 변수 설정(간호기록 참고)
+	1. new patient → 50kg 설정 후 수정 → 종료 & same patient로 확인

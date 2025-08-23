@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/crrt/","created":"2025-07-30T20:35:38.670+09:00","updated":"2025-08-21T13:19:17.378+09:00"}
+{"dg-publish":true,"permalink":"/index/crrt/","created":"2025-07-30T20:35:38.670+09:00","updated":"2025-08-21T21:43:32.676+09:00"}
 ---
 
 # Continous Renal Replacement Therapy
@@ -22,6 +22,8 @@
 2. 대류 Convection: 물(용매)이 이동할 때 그 흐름을 따라 용질도 같이 이동
 3. 초여과 Ultrafilteration: 압력(혈액측과 투석액측의 압력차)를 이용해 물을 반투과성 막을 통해 빼내는 것 → 주로 수분 제거 목적
 4. 흡착 Adsorption - 혈액 속 물질이 필터 막 표면에 붙어서 제거
+### 장비 설명 
+- ![](https://blog.naver.com/rudghkdmlqkd/223978387087?photoView=0)
 
 ### 준비물
 1. *항응고제*

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/record-example/","tags":["emr","source"],"created":"2025-08-13T17:56:40.529+09:00","updated":"2025-08-20T11:05:08.707+09:00"}
+{"dg-publish":true,"permalink":"/source/record-example/","tags":["emr","source"],"created":"2025-08-13T17:56:40.529+09:00","updated":"2025-08-23T18:48:27.649+09:00"}
 ---
 
 ## Routine
@@ -19,7 +19,10 @@
 - back massage & position change done. 
   욕창 예방위해 엘타폼 bathing 시행 후 엘타실 도포함. 
   지속적으로 습기관리 및 피부상태 관찰 시행함. 
-  
+## O2
+- O2 free 상태로 dyspnea 호소 없이 SpO2 96% 이상 유지중임. 
+- Sedation 중일 경우
+	- SpO2 96% 이상 유지중임.
   stool 150g 봄.  
   anus site 마데카솔 파우더 도포함. 
 - 집중관찰중임. 
@@ -60,10 +63,7 @@ prep 된 IFURO 0.5A skip함. by Mx
 	- E-tube blocker 적용중으로 고정위치 확인 후 재고정함. 
 	- E-tube 밑 Gz 적용함. 
 
-## O2
-- O2 free 상태로 dyspnea 호소 없이 SpO2 96% 이상 유지중임. 
-- Sedation 중일 경우
-	- SpO2 96% 이상 유지중임.
+
 ## BP
 - INEPI20
 	- INEPI fluid 4→3cc/hr 로 변경함. by PRN(ABP 147)
@@ -75,3 +75,5 @@ prep 된 IFURO 0.5A skip함. by Mx
 # Foley 
 - F-cath irrigation 500cc 시행함. by ccns ~
   (R: turbid → mild turbid 변화보임.)
+
+## Noti 
