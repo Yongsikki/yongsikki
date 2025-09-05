@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/source/fee/","tags":["emr","source"],"created":"2025-08-12T17:27:15.445+09:00","updated":"2025-08-23T22:13:44.200+09:00"}
+{"dg-publish":true,"permalink":"/source/fee/","tags":["emr","source"],"created":"2025-08-12T17:27:15.445+09:00","updated":"2025-08-24T17:55:11.114+09:00"}
 ---
 
 # Insert Fee
-- A-line(6): I
+- A-line: I
 	- 약제 INSLP 3 NORMAL SALIEN INJ. 1L(BAG)
 	- 처치 EX874A Invasive Aterial Blood Pressure(1일당)-처치용 검사 
 	- 처치 M0115A cath site dressing(simple) 중환자실 입원
@@ -13,14 +13,14 @@
 		- 재료 EZ ONE FIX재료 
 		- TEGADERM CHG
 
-> [!NOTE] A-line
+> [!NOTE] A-line(6)
 > - WIFI
 > - 모니터링키트
 > - 카테터(G 확인)
 > - 드레싱 재료대(이지원 픽스 or CHG)
 > - 처치x2(Invasive Aterial Blood Pressure, cath Dx)
 
-- C-line(6): I💡QCS BSI 하기 
+- C-line: I💡QCS BSI 하기 
 	- 처치 O1659A (준) CVP Catheter Insert
 	- 재료 AAP00280 PACK. CENTRAL LINE(상체 + 대퇴부) 
 	- 재료 AAC74565 COVER, PROTECTIVE TRANSDUCER (CJ7524L) 
@@ -28,7 +28,7 @@
 	- ILIDO2A 썼으면 → 약제 ILDO2A 2% HUONS LIDOCAINE HCL INJ. 5ML/A
 	- 사용한 C-ine Lumen에 맞게 check (꼭 물어보기)
 
-> [!NOTE] C-line
+> [!NOTE] C-line(6)
 > 처치 - CVP insert 
 > Pack
 > 나일론
@@ -47,9 +47,18 @@
 	- 재료 AAC&4565 COVER, PROTECTIVE TRANSDUCER (CJ7524L) 15*120CM
 	- 재료 ASN13200 NYLON (NB324)[#3-0]
 	- 재료 AAP00280 PACK, CENTRAL LINE(상체+대퇴부)
-	- 재료 AAC31836 CATHETER, HEMODIALYSIS(💡15cm, 20cm, 24cm)
-	- 재료 AAW15,,, WIRE, GUADE FOR HEMODIALYSIS
-	- 재료 AAC31834 
+	- 재료 AAC3183,,, CATHETER, HEMODIALYSIS(💡15cm, 20cm, 24cm)
+	- 재료 AAW15,,, WIRE, GUADE FOR HEMODIALYSIS 
+
+> [!NOTE] H-stick(8)
+> 처치x2 - 삽입 부위, Intravenous Cath
+> 리도카인
+> 커버(sono 시)
+> 나일론
+> Pack
+> H-stick Cath(15cm, 20cm, 24cm)
+> 와이어 
+
 - CRRT(FMC): M 
 	- 약제 INSLP3 x2 NORMAL SALIEN
 	- 처치 07001R 지속적 경정맥 혈액투석여과(CVVHDF-카테터 삽입 당일)
@@ -101,6 +110,7 @@
 
 
 # Night Fee
+- 💡야간 해제 
 - A-line
 	- EX874
 	- ALS04895
@@ -146,3 +156,4 @@
 	- 자동으로 체크 되어 있음 → 교체 주기 아니면🚨체크 해제
 	- AAV03650 (K-bac)
 	- ACF-vac
+- Hair shampoo → Y 

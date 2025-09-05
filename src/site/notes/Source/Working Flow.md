@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/working-flow/","tags":["acting","source"],"created":"2025-08-12T17:38:36.110+09:00","updated":"2025-08-21T13:40:11.711+09:00"}
+{"dg-publish":true,"permalink":"/source/working-flow/","tags":["acting","source"],"created":"2025-08-12T17:38:36.110+09:00","updated":"2025-08-24T18:12:19.077+09:00"}
 ---
 
 # Evening 
@@ -41,10 +41,10 @@
 		- 날짜 선택 → 익일로 저장 → yes
 		- 다른 환자 선택 → 전새천택 해제 후 다시 선택 → 익일로 저장
 		- 전일자 조회 → Mx 처방 비교(Ctrl 누르면서 확인) 
-		- 인계장 익일 → 금일 변경
+		- 인계장 익일 → 금일 변경, 기타 날짜, # 번호 변경
 	- [ ] 익일처방 
 		- [ ] [[Source/검체\|검체]] 바코드 
-		- 병동간호 → 환자 선택 → 처방 조회 → PRN 처방 외 검체 확인 → 시간 확인 → 바코드 출력 → 
+		- 병동간호 → 환자 선택 → 처방 조회 → PRN 처방 외 검체 확인 → 시간 확인 → 바코드 출력 
 	- [ ] 중환자 기록: I/O 항목설정
 		-  처방항목선택 → contionous 제외(처방된 날짜에서 가져오기) → 전체항목 수정 → 속도 추가 → 전날 비교
 		- Anti = AST: K
@@ -82,7 +82,7 @@
 	- [ ] 12 MN 이후
 		- [ ] 💡12MN 지나고 PRN 긁기, (초록 항목, BST도 따로)
 			- ex) 6, 12, 6, 12 → 4회 처방
-		- [ ] 병동간호 → 처방코드 → PRN →
+		- [ ] 병동간호 → 처방코드 → PRN 처벙 실시 (4회)
 - [ ] Back care
 - [ ] 전실 받기
 	- [ ] [[Source/Nursing Assesment\|Nursing Assesment]]

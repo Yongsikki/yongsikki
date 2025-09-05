@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-07-22T18:31:14.722+09:00","updated":"2025-08-22T22:27:04.751+09:00"}
+{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-07-22T18:31:14.722+09:00","updated":"2025-08-24T17:37:46.261+09:00"}
 ---
 
 ## [[Index/입사 체크리스트\|입사 체크리스트]]
@@ -12,6 +12,9 @@
 ## EMR
 - [[Source/Record Example\|Record Example]]
 - [[Source/Fee\|Fee]]
+- [[Source/약 반납\|약 반납]]
+- [[라벨 출력\|라벨 출력]]
+- [[Index/I&O\|I&O]]
 ## 이론
 - [[Index/CRRT\|CRRT]]
 - [[Source/Ventilator\|Ventilator]]
