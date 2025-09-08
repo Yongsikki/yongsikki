@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/crrt/","created":"2025-07-30T20:35:38.670+09:00","updated":"2025-08-21T21:43:32.676+09:00"}
+{"dg-publish":true,"permalink":"/index/crrt/","created":"2025-07-30T20:35:38.670+09:00","updated":"2025-09-08T11:55:32.895+09:00"}
 ---
 
 # Continous Renal Replacement Therapy
@@ -7,11 +7,22 @@
 >혈액 수분제거
 >전해질불균형
 >노폐물 제거
+> 혈역학적 불안정, 혈압 저하로 정상 혈압이 유지가 안될 경우 → 느리지만 안정적인 CRRT
+
+
+| 내용                 | HD (간헐적 혈액투석) | CRRT(지속적 혈액투석) |
+| -------------------- | -------------------- | --------------------- |
+| 투석막 특성          | 다양한 투과력        | 높은 투과력           |
+| 사용기간             | 짧은                 | 긴 기간               |
+| 혈액흐름속도(BFR)    | 200ml/min 이상       | 200ml/min 이하        |
+| 투석액 흐름 속도     | 500ml/min 이상       | 저속~고속             |
+| 1회 치료기간         | 2~4시간              | 24시간 이상 ~ 수 일   |
+| 저분자 노폐물 제거율 | 높음                 | 낮음                      |
 ### 적응증
-- End Stage Of Renal Disease
 - DI
 - 용혈
-- 급성 신부전
+- [[Index/AKI\|AKI]]
+- [[ESRD\|ESRD]]
 - 뇌부종 수반 뇌출혈 & 뇌경색
 - 패혈증 급성 호흡부전
 - 중증 Lactic Acidosis
@@ -54,25 +65,42 @@
 2. CVVHD(Continous Veno Venous Hemodialysis)
 	1. 원리: 초여과 + 확산 
 	2. 확산
-	3. Dialysate open 투석액 적용 :right  확산
+	3. Dialysate open 투석액 적용 → 환자의 혈액이 흐르는 방향과 반대방향으로 dialysate bag 추가 → 반투막성 막 경계로 용질이 높은 농도에서 낮은 농도로 확산(diffusion) 
 	4. 작은 크기 용질 제거 효과적
+		1. K, pottasium
+		2. P, phosphorus
+		3. Na, sodium
+		4. uircacid 
+		5. urea
+	5. 혈액에서 소분자 물질 너무 빠져버릴 수 있음 → dailysate bag electrolyte 조성 높임(ex. K 추가 mix)
 3. CVVH(Continous Veno Venous Hemofilteration)
-	1. 원리: 초여과 + 대류
+	1. 원리: 초여과 + 대류, 수분이 나가면서 중간 크기 분자 같이 딸려 나감(convection)
 	2. replacement open 보충액 적용 :LiArrowBigRight: 대류기전
+		- SCUF 에서 수분이 너무 빠지는 것 보완 
 	3. 중간크기 분자 제거 효과적
+		1. bitamin B12
+		2. glucose
+		3. uric acid
+		4. creatine
+		5. phosphate
+	4. PRE
+		- Filter 전 단계에 보충액 연결
+		- 용질이 묽어져 용질 청소율:LiArrowBigDown:
+		- Clot 위험성:LiArrowBigDown:
+	5. POST
+		- 환자 몸에 들어가기 전 보충액 연결
+		- 농축된 혈액 Filter 통과:LiArrowBigRight:용질 청소율:LiArrowBigUp:
+		- Clot 위험성:LiArrowBigUp: (항응고제 요구량:LiArrowBigUp:)
 4. SCUF(Slow Continous Ultrafilteration)
-	1. 원리: 초여과
+	1. 원리: 초여과(blood pump → 압력⬆️[여과 → 초여과])
 	2. 투석액 사용 X
-	3. Fulid Over 환자 Volume control 필요시
+	3. Fulid Over 환자 Volume control 필요시(수분 제거 목적)
+5. Filter 자체 기증: 흡착(adsorption)
+	1. 사이토카인과 같은 중간 분자 이상의 큰 입자들은 반투막성 막을 통과하지 못해 필터에 붙음
+	2. 흡착 반응이 많을 수록 filter가 막히거나 성능 감소
+	3. Sepsis → cytokine 급증 → filter 흡착⬆️→ CRRT filter q8hr or 최소 q24hr 교체 
 --- 
-1. PRE
-	- Filter 전 단계에 보충액 연결
-	- 용질이 묽어져 용질 청소율:LiArrowBigDown:
-	- Clot 위험성:LiArrowBigDown:
-2. POST
-	- 환자 몸에 들어가기 전 보충액 연결
-	- 농축된 혈액 Filter 통과:LiArrowBigRight:용질 청소율:LiArrowBigUp:
-	- Clot 위험성:LiArrowBigUp: (항응고제 요구량:LiArrowBigUp:)
+
 ### 프라이밍 용액(사전혈액펌프)
 - 혈액회로(튜브 및 필터) 처음 사용시 관 내 공기 제거 및 준비 
 ### 투석액
@@ -85,6 +113,12 @@
 	- 필터 수명 종료 :LiArrowRightCircle: 회로 교체 고려, 헤파린 or 후탄 점검, 혈액 농도 및 혈류 속도 조절
 - TMP :LiArrowBigDownDash: 낮을 경우: 혈류량 부족, 필터 이상, 누출 가능성 
 💡INR 변화 시 TMP 조절 
+
+## Catheter
+1. HD Catheter
+2. Ferm Catheter 
+3. 💡acess line 상태 좋지 않아 acess line 과 return line 바꿔서 투석할 경우 정화된 혈액이 다시 CRRT로 돌아가는 blood recirculation → 투석 효율 감소 
+--- 
 ## 합병증
 1. 출혈
 2. 저혈압
@@ -107,3 +141,8 @@
 ## 기타 주의 사항
 - 💡키트 내 잔류 가능 혈액량: RBC 1Fint 
 - N/S 500 기계 쪽 빨간 Lumen 연결
+
+---
+# Reference
+[[Index/RRT\|RRT]]
+
