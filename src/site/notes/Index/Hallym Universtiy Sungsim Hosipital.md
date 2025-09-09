@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-07-22T18:31:14.722+09:00","updated":"2025-09-08T18:36:36.728+09:00"}
+{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-07-22T18:31:14.722+09:00","updated":"2025-09-09T20:13:42.012+09:00"}
 ---
 
 ## [[Index/입사 체크리스트\|입사 체크리스트]]
@@ -16,6 +16,7 @@
 - [[Index/라벨 출력\|라벨 출력]]
 - [[Index/I&O\|I&O]]
 - [[Index/Request Narcotics\|Request Narcotics]]
+- [[Index/Pre OP & Post OP\|Pre OP & Post OP]]
 ## 이론
 - [[Index/CRRT\|CRRT]]
 - [[Source/Ventilator\|Ventilator]]
@@ -23,3 +24,4 @@
 - [[Source/CTD & PCD\|CTD & PCD]]
 - [[Index/Catheter\|Catheter]]
 - [[Source/TTM(Targeted Temperature Management)\|TTM(Targeted Temperature Management)]]
+
