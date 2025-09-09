@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/source/drug-code/","tags":["source","study_note"],"created":"2025-07-30T22:56:36.331+09:00","updated":"2025-08-20T10:44:14.550+09:00"}
+{"dg-publish":true,"permalink":"/source/drug-code/","tags":["source","study_note"],"created":"2025-07-30T22:56:36.331+09:00","updated":"2025-09-09T19:22:33.315+09:00"}
 ---
 
 
 ### 왼쪽
+
 | | | | 
 | ---------- | ---------- | ---------- | ---------- |
 | [[Source/IABR\|IABR]]     | [[Source/ICPR\|ICPR]]       | IDIGO      | IDX2(2)    |
@@ -23,7 +24,7 @@
 
 |            |              |             |            |            |
 | ---------- | ------------ | ----------- | ---------- | ---------- |
-| INEMPI20   | ILVFX750P(2) | INICA10(22) | 120ALB (4) | ITELI(2)   |
+| INEMPI20   | [[Index/ILVFX750P(2)\|ILVFX750P(2)]] | INICA10(22) | 120ALB (4) | ITELI(2)   |
 | ITAPI42(4) |              |             |            | ICFTR22(2) |
 
 | 혈소판  | IKH2PO4   | INA401                                |
