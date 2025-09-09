@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/record-example/","tags":["emr","source"],"created":"2025-08-13T17:56:40.529+09:00","updated":"2025-08-23T18:48:27.649+09:00"}
+{"dg-publish":true,"permalink":"/source/record-example/","tags":["emr","source"],"created":"2025-08-13T17:56:40.529+09:00","updated":"2025-09-09T17:13:58.557+09:00"}
 ---
 
 ## Routine
@@ -53,7 +53,11 @@
 - 식전 residual 확인함. 
   (r: none.) 
   
-  처방된 식이 투여함. 
+  처방된 식이 투여함.
+- PO MED 주기 전 residual 확인함. 
+  (r: none)
+  
+  처방된 PO MED 소량의 물과 함께 복용함. 
 
 # I/O
 섭취량:2605g / 배설량: 2595g I/O + 10 측정됨. 
