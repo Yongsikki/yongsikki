@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/working-flow/","tags":["acting","source"],"created":"2025-08-12T17:38:36.110+09:00","updated":"2025-09-08T19:46:13.617+09:00"}
+{"dg-publish":true,"permalink":"/source/working-flow/","tags":["acting","source"],"created":"2025-08-12T17:38:36.110+09:00","updated":"2025-09-09T19:44:01.667+09:00"}
 ---
 
 # Evening 
@@ -23,6 +23,10 @@
 # Night
 - [ ] Count: CSR, 응급카트
 - [ ] 환자 파악
+- [ ] 필요한 물품 준비 - 간호활동 참고 
+	- [ ] C-line or A-line kit (d/t 교체일) 
+	- [ ] nebulizer
+	- [ ] Enema syringe (식이)
 - [ ] 인계
 - [ ] Initial 기록 
 	- [ ] 밤 간호함. 

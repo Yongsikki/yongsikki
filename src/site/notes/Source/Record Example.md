@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/record-example/","tags":["emr","source"],"created":"2025-08-13T17:56:40.529+09:00","updated":"2025-09-09T17:13:58.557+09:00"}
+{"dg-publish":true,"permalink":"/source/record-example/","tags":["emr","source"],"created":"2025-08-13T17:56:40.529+09:00","updated":"2025-09-09T20:16:55.667+09:00"}
 ---
 
 ## Routine
@@ -81,3 +81,7 @@ prep 된 IFURO 0.5A skip함. by Mx
   (R: turbid → mild turbid 변화보임.)
 
 ## Noti 
+
+# CTD
+- CTD 개방성 자주 확인함. 
+  bloody한 양상으로 배액중임. 
