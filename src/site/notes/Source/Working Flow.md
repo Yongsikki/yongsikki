@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/working-flow/","tags":["acting","source"],"created":"2025-08-12T17:38:36.110+09:00","updated":"2025-08-24T18:12:19.077+09:00"}
+{"dg-publish":true,"permalink":"/source/working-flow/","tags":["acting","source"],"created":"2025-08-12T17:38:36.110+09:00","updated":"2025-09-08T19:46:13.617+09:00"}
 ---
 
 # Evening 
@@ -82,7 +82,7 @@
 	- [ ] 12 MN 이후
 		- [ ] 💡12MN 지나고 PRN 긁기, (초록 항목, BST도 따로)
 			- ex) 6, 12, 6, 12 → 4회 처방
-		- [ ] 병동간호 → 처방코드 → PRN 처벙 실시 (4회)
+		- [ ] 병동간호 → 처방코드 → PRN 처방 실시 (4회)
 - [ ] Back care
 - [ ] 전실 받기
 	- [ ] [[Source/Nursing Assesment\|Nursing Assesment]]

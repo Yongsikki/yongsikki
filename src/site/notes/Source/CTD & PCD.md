@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/ctd-and-pcd/","tags":["source"],"created":"2025-08-20T11:21:27.424+09:00","updated":"2025-08-21T21:41:06.395+09:00"}
+{"dg-publish":true,"permalink":"/source/ctd-and-pcd/","tags":["source"],"created":"2025-08-20T11:21:27.424+09:00","updated":"2025-09-08T18:33:58.276+09:00"}
 ---
 
 # CTD
@@ -56,6 +56,10 @@
 	- ![](https://i.imgur.com/9xelHlP.jpeg)
 	- ![](https://i.imgur.com/Z5EOvVe.jpeg)
 	- ![](https://i.imgur.com/jWiwHVh.jpeg)
+- Dx
+	- 간호활동: 예정일 & Dx일 변경
+	- M0115A
+	- AAM13820 MEDIX 10x10 x2
 # PCD 
 - 목적
 	- 복부 감염이나 농양 관찰 시 농양 배액과 빠른 상처 치유

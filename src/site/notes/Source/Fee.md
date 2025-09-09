@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/fee/","tags":["emr","source"],"created":"2025-08-12T17:27:15.445+09:00","updated":"2025-08-24T17:55:11.114+09:00"}
+{"dg-publish":true,"permalink":"/source/fee/","tags":["emr","source"],"created":"2025-08-12T17:27:15.445+09:00","updated":"2025-09-08T19:27:44.055+09:00"}
 ---
 
 # Insert Fee
@@ -111,10 +111,10 @@
 
 # Night Fee
 - 💡야간 해제 
-- A-line
+- A-line(M)
 	- EX874
 	- ALS04895
-- C-line
+- C-line(M)
 	- A-line 없을 경우 → ALS04895
 	- Syrange X4
 	- 3-way X3
@@ -127,33 +127,83 @@
 	- 3-way X3
 	- Saline syringe X4
 	- 30cc  X4 AAN61190 
-- Infusion Pump 
+- Infusion Pump(M)
 	- 처치: Infusion pump 사용료 / DM 환자 IHRIL 투여 시 → 처치항목 추가 
-- Patient Monitoring (위에 3개 Check 확인)
-	- ECG
-	- BP
-	- O2
-	- EKG Lead 
-	- AAE00108 
-- 호흡간호 = O2하고 있을 경우 → Y → Gas fee / 안하고 있을 경우 → DO
-- Eye & oral care → 둘 중 하나만 Y → D-set 하나 
-- Back Massage: M0145 Position change
-- Ventilator
-	- EtCO2:
-	- E-tube: M
+- IV(M) 
+	- AAS53565 SYRINGE, PREFILLED (W/OPI VISIBLE IV) x3 
+	- AAN62297 needless connector x3
+- Foley 
+	- 고정대: 
+	- bladder scan 한 경우 EZ754A
+- FMC
+	- 처치: O7002 지속적 경정맥 혈액투석여과
+- prisma flex
+	- 처치: O7002 지속적 경정맥 혈액투석여과
+	- 재료: AAP42060 PRISMAFLEX ST SET **(ST100)** [CVVH전용]
+	- 재료: AAP42065 PRISMAFLES ST SET **(ST150)** [CVVH전용]
+- Ventilator(M)
+	- IDISTLP 	 WIFI
 	- Gas
-	- WIFI
+	- close suction system 교환(Y)
+		- 재료: CATHETER, CLOSED SUCTION (ENDO TUBE용)
+	- EtCO2(M)
+		- 처치: F6040 Capnography(1일당)
+		- 재료: AAL41074 LINE, INTUBATED FILTER(MICROSTREAM, 2M) / 💡ETCO2 line 교체시만 끊기(3일에 한번, 교환일 이전 malfunction 시 교환 ❌) 
+	- E-tube(M)
+		- 처치: M0135 suction general(중환자실 입원) x3
+		- 처치: M5920A Endotracheal Irrigation(1일당) x3
+		- 처치: SSX360 Cuff Pressure Controller[건]
 	- Nebulizer treatment (12시간 미만일 경우: X)
-- Nebulizer
-- L-tube
+- High flow(M)
+	- 약제: IDISTLP 중외멸균주사용증류수 1L/BAG
+	- 처치: MM3608 Heated Humidified High FLow Nasal Cannula(1일당)
+	- 처치: M0040 Oxygen Inhalation(1일당) 
+	- 재료: Gas
+- T-tube(portex, M)
+	- 처치: M0135A x3 Tracheostomy suction(중환자실 입원)
+	- 처치: M5920A Endotracheal Irrigation(1일당) - 처치용
+	- 처치: SSX360 Cuff Pressure Controller[건]
+	- Tracheostomy: (K)
+- CTD & PCD(M)
+	- 처치: M01348 Chest Tube Drainage(1일당)
+	- 처치: M0135J CTD wall suction(중환자실 입원)
+	- 💡둘 중에 하나 
+- PCN(M)
+	- 처치: M0134L Drainage(other)(1일당)
+- Hemovac & JP tube(M)
+	- 처치: M0134C Hemovac Drainage(1일당)
+	- 💡가지고 있는 수만큼
+- L-tube(M)
 	- Enema Syringe:  식사 당 2개: (residual 확인용, 식사용)
 	- 당뇨 관급식 RST = line fee 안끊어도 됨. 
 	- 그린비아 = 통 + line  fee
 	- Drain 할 경우 Drain fee 따로 항목 추가
 	- PO만 할 경우: nasogastric feeding
 	- PO + 식이 할 경우: 경장영양 펌프까지
-- L-tube Drain Fee 
+- L-tube Drain Fee(M)
 	- 자동으로 체크 되어 있음 → 교체 주기 아니면🚨체크 해제
 	- AAV03650 (K-bac)
 	- ACF-vac
-- Hair shampoo → Y 
+
+- 호흡간호(Y) = O2하고 있을 경우 → Y → Gas fee / 안하고 있을 경우 → DO
+	- 처치: Oxygen Inhalation(1일당) 
+	- 재료: Gas
+	- 재료: AAO03140 OXISENSOR(NELLCOR)
+- Eye & oral care → 둘 중 하나만 Y → D-setx3 
+- Back Massage: M0145 Position change x3
+- Hair shampoo(Y)
+- Patient Monitoring (위에 3개 Check 확인)
+	- ECG
+	- BP
+	- O2
+	- AAE08108 EKG Lead = check 빼기(사용한 경우만) 
+- Perineal care/F-site Dx(Y)
+	- 처치: M0151 Perneal Care(1일당)
+- Embolic stocking(Y)
+	- 재료: AAS3544~ x2 STOCKING, ANTI-EMBOISM(허벅지형, CAP)
+- VEST(Y)
+	- 처치: MM430 High Frequench Chest Wall Oscillation(1일당) 
+- Nebulizer
+	- M0045 Nebulizer treatment (vent 하고 있는 사람 12시간 초과일 경우 ❌)
+	- AAN02164 NEBULIZER, DISPO 
+	- AAN02128
