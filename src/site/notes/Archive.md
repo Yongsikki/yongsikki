@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/","tags":["digitalgarden","gardenEntry"],"created":"2025-07-22T18:31:14.226+09:00","updated":"2025-08-20T11:20:49.384+09:00"}
+{"dg-publish":true,"permalink":"/archive/","tags":["digitalgarden","gardenEntry"],"created":"2025-07-22T18:31:14.226+09:00","updated":"2025-09-14T11:37:38.676+09:00"}
 ---
 
 ## 🧠 Notes
@@ -49,4 +49,3 @@
 ## 📷Gallery 
 
 
-## 💗Euna
