@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-07-22T18:31:14.722+09:00","updated":"2025-09-14T11:27:28.810+09:00"}
+{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-07-22T18:31:14.722+09:00","updated":"2025-09-14T11:28:17.658+09:00"}
 ---
 
 ## [[Index/입사 체크리스트\|입사 체크리스트]]
@@ -12,6 +12,7 @@
 
 ## EMR
 - [[Source/Record Example\|Record Example]]
+- [[Source/Nursing Assesment\|Nursing Assesment]]
 - [[Source/Fee\|Fee]]
 - [[Source/Return Medication\|Return Medication]]
 - [[Index/라벨 출력\|라벨 출력]]
