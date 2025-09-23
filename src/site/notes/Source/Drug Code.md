@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/drug-code/","tags":["source","study_note"],"created":"2025-07-30T22:56:36.331+09:00","updated":"2025-09-14T10:49:45.650+09:00"}
+{"dg-publish":true,"permalink":"/source/drug-code/","tags":["source","study_note"],"created":"2025-07-30T22:56:36.331+09:00","updated":"2025-09-23T21:18:01.138+09:00"}
 ---
 
 
@@ -39,3 +39,9 @@
 [[Index/trazodone(TRAZ25)\|trazodone(TRAZ25)]]
 [[Index/ramosetron(IRAMO03)\|ramosetron(IRAMO03)]]
 [[Index/cilostazol(CILPS100)\|cilostazol(CILPS100)]]
+[[Index/tiropramide(ITIROP2)\|tiropramide(ITIROP2)]]
+[[Index/filgrastim(IGCSF300)\|filgrastim(IGCSF300)]]
+[[Index/amantadine(AMAN)\|amantadine(AMAN)]]
+[[Index/telmisartan(TESAR401)\|telmisartan(TESAR401)]]
+[[valprate(IVAL41) \|valprate(IVAL41) ]]
+[[Index/levetiracetam(ILRCT1G)\|levetiracetam(ILRCT1G)]]
