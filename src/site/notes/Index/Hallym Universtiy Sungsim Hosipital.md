@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-07-22T18:31:14.722+09:00","updated":"2025-09-14T11:28:17.658+09:00"}
+{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-09-14T11:28:16.000+09:00","updated":"2025-09-30T16:43:57.297+09:00"}
 ---
 
 ## [[Index/입사 체크리스트\|입사 체크리스트]]
-
+테스트 입니다. 
 ## [[Case Study/Nursing\|Nursing]]
 ## [[Source/Drug Code\|Drug Code]]
 ## Acting
@@ -15,10 +15,10 @@
 - [[Source/Nursing Assesment\|Nursing Assesment]]
 - [[Source/Fee\|Fee]]
 - [[Source/Return Medication\|Return Medication]]
-- [[Index/라벨 출력\|라벨 출력]]
 - [[Index/I&O\|I&O]]
 - [[Index/Request Narcotics\|Request Narcotics]]
 - [[Index/Pre OP & Post OP\|Pre OP & Post OP]]
+- [[Source/Transfer & Admission\|Transfer & Admission]]
 ## 이론
 - [[Index/CRRT\|CRRT]]
 - [[Source/Ventilator\|Ventilator]]
