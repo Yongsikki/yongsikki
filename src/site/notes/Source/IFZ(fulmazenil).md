@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/ifz-fulmazenil/","tags":["study_note","source","template"],"created":"2025-07-30T23:10:19.008+09:00","updated":"2025-09-13T12:33:34.534+09:00"}
+{"dg-publish":true,"permalink":"/source/ifz-fulmazenil/","tags":["study_note","source","template"],"created":"2025-09-13T12:33:34.000+09:00","updated":"2025-09-30T15:53:08.585+09:00"}
 ---
 
 1. 약품명: ANEXATE INJ. 0.5mg(flumazenil)

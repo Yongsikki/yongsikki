@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/english/pte/","tags":["English"],"created":"2025-07-22T18:31:14.678+09:00","updated":"2025-04-27T19:56:28.000+09:00"}
+{"dg-publish":true,"permalink":"/english/pte/","tags":["English"],"created":"2025-04-27T19:56:28.000+09:00","updated":"2025-09-30T15:53:06.910+09:00"}
 ---
 
 ## RA: Read Aloud

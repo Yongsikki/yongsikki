@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/high-flow/","tags":["source","acting"],"created":"2025-08-21T20:51:20.738+09:00","updated":"2025-08-21T21:13:31.959+09:00"}
+{"dg-publish":true,"permalink":"/source/high-flow/","tags":["source","acting"],"created":"2025-08-21T21:13:30.000+09:00","updated":"2025-09-30T15:53:08.541+09:00"}
 ---
 
 # High flow, Optiflow(AIRVO 2)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/ihp-5-2/","tags":["study_note","source"],"created":"2025-07-30T23:11:21.462+09:00","updated":"2025-08-20T10:45:40.879+09:00"}
+{"dg-publish":true,"permalink":"/source/ihp-5-2/","tags":["study_note","source"],"created":"2025-08-20T10:45:40.000+09:00","updated":"2025-09-30T15:53:08.592+09:00"}
 ---
 
 ## MYUNGLN HALOPERIDOL INJ 5mg(haloperidol)

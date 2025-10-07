@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/why-you-should-use-obsidian/","tags":["topic"],"created":"2025-07-22T18:31:14.714+09:00","updated":"2025-04-05T17:43:58.000+09:00"}
+{"dg-publish":true,"permalink":"/index/why-you-should-use-obsidian/","tags":["topic"],"created":"2025-04-05T17:43:58.000+09:00","updated":"2025-09-30T15:53:07.463+09:00"}
 ---
 
 # Benefits of Obsidian

@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-09-14T11:28:16.000+09:00","updated":"2025-09-30T16:43:57.297+09:00"}
+{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-09-14T11:28:16.000+09:00","updated":"2025-10-05T16:34:20.894+09:00"}
 ---
 
 ## [[Index/입사 체크리스트\|입사 체크리스트]]
-테스트 입니다. 
+
+## [[Index/MICU\|MICU]]
 ## [[Case Study/Nursing\|Nursing]]
 ## [[Source/Drug Code\|Drug Code]]
 ## Acting
@@ -26,6 +27,7 @@
 - [[Source/CTD & PCD\|CTD & PCD]]
 - [[Index/Catheter\|Catheter]]
 - [[Source/TTM(Targeted Temperature Management)\|TTM(Targeted Temperature Management)]]
+
 
 BST 발행 취소
 1. 바코드

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/nursing-assesment/","tags":["emr","source"],"created":"2025-08-08T10:10:23.998+09:00","updated":"2025-09-17T10:30:54.280+09:00"}
+{"dg-publish":true,"permalink":"/source/nursing-assesment/","tags":["emr","source"],"created":"2025-09-17T10:30:54.000+09:00","updated":"2025-09-30T15:53:08.676+09:00"}
 ---
 
 💻간호정보 → 일반 → 신규 (이름 앞 ⓐ=신환)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/tiropramide-itirop-2/","tags":["template"],"created":"2025-09-23T19:25:29.374+09:00","updated":"2025-09-23T19:27:43.505+09:00"}
+{"dg-publish":true,"permalink":"/index/tiropramide-itirop-2/","tags":["template"],"created":"2025-09-23T19:27:42.000+09:00","updated":"2025-09-30T15:53:07.390+09:00"}
 ---
 
 1. 약품명 Tiram 

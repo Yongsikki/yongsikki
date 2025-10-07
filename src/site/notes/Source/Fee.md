@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/fee/","tags":["emr","source"],"created":"2025-08-12T17:27:15.445+09:00","updated":"2025-09-08T19:27:44.055+09:00"}
+{"dg-publish":true,"permalink":"/source/fee/","tags":["emr","source"],"created":"2025-09-08T19:27:44.000+09:00","updated":"2025-09-30T15:53:08.531+09:00"}
 ---
 
 # Insert Fee

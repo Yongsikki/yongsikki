@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/transfer-and-admission/","tags":["emr","source"],"created":"2025-08-12T17:27:15.445+09:00","updated":"2025-09-09T19:45:13.972+09:00"}
+{"dg-publish":true,"permalink":"/source/transfer-and-admission/","tags":["emr","source"],"created":"2025-09-09T19:45:12.000+09:00","updated":"2025-09-30T16:20:35.423+09:00"}
 ---
 
 ## 전실 받을 때
@@ -10,10 +10,16 @@
 	- A-line: N/S 500, 커프 & 혈압
 	- C-line: N/S 500 
 ## 전실 보낼 때
-- GW
-- 중환자실
-- 보호자에게 면회 시간 변경 안내
+- [ ] 전과전실 예약
+	- GW
+	- 중환자실
+- [ ] 보호자에게 면회 시간 변경 안내
 	- 보호자 전화한 내용 간호기록 작성 
-- 전동기록 
-	- 인계장 정리
-- 전과전실 예약
+- [ ] 전동기록 
+- [ ] 인계장 정리
+- [ ] Gas fee
+- [ ] 간호과정 종료 
+- [ ] 신체 강박 종료
+- [ ] I/O 
+	- 교대 시간 임박하여 할 경우 V/S 혈압 미리 측정
+	  ex) 2pm 이실 예정인 경우 1:40pm BP 측정 → 

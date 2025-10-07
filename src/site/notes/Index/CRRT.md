@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/crrt/","created":"2025-07-30T20:35:38.670+09:00","updated":"2025-09-08T11:55:32.895+09:00"}
+{"dg-publish":true,"permalink":"/index/crrt/","created":"2025-09-08T11:55:32.000+09:00","updated":"2025-09-30T15:53:07.051+09:00"}
 ---
 
 # Continous Renal Replacement Therapy

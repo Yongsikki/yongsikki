@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/filgrastim-igcsf-300/","tags":["template"],"created":"2025-09-23T20:24:03.281+09:00","updated":"2025-09-23T20:24:33.725+09:00"}
+{"dg-publish":true,"permalink":"/index/filgrastim-igcsf-300/","tags":["template"],"created":"2025-09-23T20:24:32.000+09:00","updated":"2025-09-30T15:53:07.118+09:00"}
 ---
 
 1. 약품명

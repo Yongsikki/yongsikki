@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/ondansetron-ionda-81/","tags":["template"],"created":"2025-09-23T21:27:52.667+09:00","updated":"2025-09-23T21:29:16.033+09:00"}
+{"dg-publish":true,"permalink":"/index/ondansetron-ionda-81/","tags":["template"],"created":"2025-09-23T21:29:16.000+09:00","updated":"2025-09-30T15:53:07.251+09:00"}
 ---
 
 1. 약품명: 온단트주 8mg/4ml/A / Ondant 

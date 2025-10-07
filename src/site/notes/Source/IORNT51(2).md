@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/iornt-51-2/","tags":["template"],"created":"2025-07-30T23:16:31.645+09:00","updated":"2025-09-23T20:57:52.493+09:00"}
+{"dg-publish":true,"permalink":"/source/iornt-51-2/","tags":["template"],"created":"2025-09-23T20:57:52.000+09:00","updated":"2025-09-30T15:53:08.626+09:00"}
 ---
 
 1. 약품명: HEPA-MERZ INFUSION INJ. (L-ornithine-L-aspartate)

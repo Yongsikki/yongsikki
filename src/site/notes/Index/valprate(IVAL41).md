@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/valprate-ival-41/","tags":["template"],"created":"2025-09-23T21:13:39.196+09:00","updated":"2025-09-23T21:17:20.978+09:00"}
+{"dg-publish":true,"permalink":"/index/valprate-ival-41/","tags":["template"],"created":"2025-09-23T21:17:20.000+09:00","updated":"2025-09-30T15:53:07.446+09:00"}
 ---
 
 1. 약품명: 올트릴주

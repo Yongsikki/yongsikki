@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/working-flow/","tags":["acting","source"],"created":"2025-08-12T17:38:36.110+09:00","updated":"2025-09-09T19:44:01.667+09:00"}
+{"dg-publish":true,"permalink":"/source/working-flow/","tags":["acting","source"],"created":"2025-09-09T19:44:00.000+09:00","updated":"2025-09-30T15:53:08.784+09:00"}
 ---
 
 # Evening 

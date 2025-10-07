@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/drug-medication-template/","tags":["template"],"created":"2025-09-10T19:51:19.690+09:00","updated":"2025-09-10T19:53:55.464+09:00"}
+{"dg-publish":true,"permalink":"/templates/drug-medication-template/","tags":["template"],"created":"2025-09-10T19:53:54.000+09:00","updated":"2025-09-30T15:53:08.849+09:00"}
 ---
 
 1. 약품명

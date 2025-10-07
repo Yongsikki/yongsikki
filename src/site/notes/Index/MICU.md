@@ -1,0 +1,68 @@
+---
+{"dg-publish":true,"permalink":"/index/micu/","created":"2025-10-03T09:34:58.124+09:00","updated":"2025-10-08T00:01:29.859+09:00"}
+---
+
+
+MICU EMR 정리 
+- 중환자실 번호: 1750 
+- Bathing
+	- 3일 마다
+	- Bathing 한날 → 장갑 fee
+- Enema
+	- 외용약 = PO약과 똑같이 
+		- 응급 변환 → 먼저약 신청 → 라벨 출력(투약번호 확인) → 보조원님 부탁 → 올라오면 관장 
+	- 식사 1hr 정도 전 Enema mx → 식사 후 시행 
+	- 간호활동 fee
+	- 간호기록 ex) CEROL03 시행함. 
+- C-line Remove
+	- D-set fee
+- night → 체중 측정
+	- 침대 zeroing
+		- 발치 폴대 = ❌
+- 인계 전
+	- CRRT 환자 투석 용액 및 헤파린 번호(개수) 확인 
+		- 처방결과 조회 → 약품별 투약이력 → 환자 등록번호, 약품 코드 입력(조회 기간 설정) 
+- I/O
+	- 항목설정 
+		- INEPI20 등 승압제 제일 위 
+		- Continuous 
+		- 마약일 경우 처방 항목 순번 별로 모두 살리기 
+- [[Index/CRRT\|CRRT]]
+	- table manage 확인 
+	- Priming 시 
+		- Kit 
+		- Saline x2
+		- 파인주 → 5000 UI
+		- 간호기록
+			- priming = 예문 참고 
+		- fee → M
+			- N/S x2
+			- heparin (처치/재료)
+			- INSLP 500 (blood return)
+	- Blood return
+		- NS 500, 프리필드 시린지 2개 준비 → 빨간 lumen (CRRT 쪽) 연결 → N/S 용액 감지 알람 → 치료 종료 → 연결 분리 → 프리필드 시린지 x2 연결
+- 동의서 
+	- 동의서 받을 경우 → 동의 받음 기록 
+	- EGD permission 필요함 SMS → 기록 
+- Noti 
+	- ~ 상기 내용을 staff. ~에게 SMS 알림. 
+- 마약
+	- I/O 처방항목 살리기 
+- Routine
+	- PLR
+		- D: 8am, 11am / E: 3pm, 7pm / N: 10pm, 3am 
+
+10/3 놓친 것 
+- 약물 remain 적을 경우 처방 받아 놓기 
+- Ventolin 투여 시 I/O 투약 예정시간 앞 시간 HR 기록
+- back care dressing 했을 경우
+	- 사진 촬영
+		- wound → E1 컴퓨터 저장
+		- sore → 욕창 관리 
+			- AI 사용할 경우 = 자동 연동
+			- 직접 사진 촬영 → jpg 변환 (google 이용) 후 간호 관리 직접 업로드 
+	- Dx fee 
+		- Dressing 
+		- 재료대 ex) mepilex 
+		- tray(D-set?)
+- 다음 duty BST 발행 

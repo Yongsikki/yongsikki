@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/tamsulosin-tamst-1/","tags":["template"],"created":"2025-09-23T22:05:05.258+09:00","updated":"2025-09-23T22:05:14.981+09:00"}
+{"dg-publish":true,"permalink":"/index/tamsulosin-tamst-1/","tags":["template"],"created":"2025-09-23T22:05:14.000+09:00","updated":"2025-09-30T15:53:07.373+09:00"}
 ---
 
 1. 약품명

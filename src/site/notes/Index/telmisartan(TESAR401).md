@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/telmisartan-tesar-401/","tags":["template"],"created":"2025-09-23T21:01:16.931+09:00","updated":"2025-09-23T21:01:44.038+09:00"}
+{"dg-publish":true,"permalink":"/index/telmisartan-tesar-401/","tags":["template"],"created":"2025-09-23T21:01:44.000+09:00","updated":"2025-09-30T15:53:07.383+09:00"}
 ---
 
 1. 약품명

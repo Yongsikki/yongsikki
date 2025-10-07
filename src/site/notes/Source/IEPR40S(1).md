@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/iepr-40-s-1/","tags":["study_note","source"],"created":"2025-07-30T23:09:07.096+09:00","updated":"2025-08-20T10:45:26.950+09:00"}
+{"dg-publish":true,"permalink":"/source/iepr-40-s-1/","tags":["study_note","source"],"created":"2025-08-20T10:45:26.000+09:00","updated":"2025-09-30T15:53:08.567+09:00"}
 ---
 
 ## CLEXANE INJ. 40mg(enoxaparin sodium)

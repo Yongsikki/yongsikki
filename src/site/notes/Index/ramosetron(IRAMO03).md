@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/ramosetron-iramo-03/","tags":["template"],"created":"2025-09-13T12:34:02.898+09:00","updated":"2025-09-13T12:35:43.217+09:00"}
+{"dg-publish":true,"permalink":"/index/ramosetron-iramo-03/","tags":["template"],"created":"2025-09-13T12:35:42.000+09:00","updated":"2025-09-30T15:53:07.306+09:00"}
 ---
 
 1. 약품명: 나제아 / 

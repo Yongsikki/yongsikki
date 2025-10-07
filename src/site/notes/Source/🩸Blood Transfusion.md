@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/blood-transfusion/","tags":["acting","source"],"created":"2025-08-07T21:18:17.533+09:00","updated":"2025-09-14T11:27:15.568+09:00"}
+{"dg-publish":true,"permalink":"/source/blood-transfusion/","tags":["acting","source"],"created":"2025-09-14T11:27:14.000+09:00","updated":"2025-09-30T15:53:08.823+09:00"}
 ---
 
 1. 📝동의서 확인

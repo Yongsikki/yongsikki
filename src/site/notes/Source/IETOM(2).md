@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/ietom-2/","tags":["study_note","source"],"created":"2025-07-30T23:06:24.170+09:00","updated":"2025-08-20T10:45:30.507+09:00"}
+{"dg-publish":true,"permalink":"/source/ietom-2/","tags":["study_note","source"],"created":"2025-08-20T10:45:30.000+09:00","updated":"2025-09-30T15:53:08.579+09:00"}
 ---
 
 ## ETOMIDATE LIPURO INJECTION 20mg/10ml/A
