@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/micu/","created":"2025-10-03T09:34:58.124+09:00","updated":"2025-10-08T00:01:29.859+09:00"}
+{"dg-publish":true,"permalink":"/index/micu/","created":"2025-10-03T09:34:58.124+09:00","updated":"2025-10-12T17:37:19.726+09:00"}
 ---
 
 
@@ -66,3 +66,5 @@ MICU EMR 정리
 		- 재료대 ex) mepilex 
 		- tray(D-set?)
 - 다음 duty BST 발행 
+
+- 정맥주사 팀 의뢰 

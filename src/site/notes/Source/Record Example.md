@@ -1,8 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/source/record-example/","tags":["emr","source"],"created":"2025-09-09T20:16:54.000+09:00","updated":"2025-09-30T15:53:08.703+09:00"}
+{"dg-publish":true,"permalink":"/source/record-example/","tags":["emr","source"],"created":"2025-09-09T20:16:54.000+09:00","updated":"2025-10-12T17:51:51.818+09:00"}
 ---
 
 ## Routine
+### 정규 
+부름에 눈뜨며 eye contact & motor obeying 가능함. 
+T/P/P 사정 시 이름 외 지남력 부족해 정보 제공함. 
+- Drain: 
+	- L-tube drain 개방성 및 양상 확인함. 
+- CRRT keep state.
+- AVF
+	- Lt.arm AVF bruit, thrill good. 
 
 - ~ 간호함. 
 	  M/S: A(confuse)
@@ -81,7 +89,11 @@ prep 된 IFURO 0.5A skip함. by Mx
   (R: turbid → mild turbid 변화보임.)
 
 ## Noti 
+sudden SPO2 80%까지 저하 보이며
+
+
 
 # CTD
 - CTD 개방성 자주 확인함. 
   bloody한 양상으로 배액중임. 
+
