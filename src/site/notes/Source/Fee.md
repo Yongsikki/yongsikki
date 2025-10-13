@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/fee/","tags":["emr","source"],"created":"2025-09-08T19:27:44.000+09:00","updated":"2025-09-30T15:53:08.531+09:00"}
+{"dg-publish":true,"permalink":"/source/fee/","tags":["emr","source"],"created":"2025-09-08T19:27:44.000+09:00","updated":"2025-10-12T19:49:11.718+09:00"}
 ---
 
 # Insert Fee
@@ -115,11 +115,22 @@
 	- EX874
 	- ALS04895
 - C-line(M)
-	- A-line 없을 경우 → ALS04895
-	- Syrange X4
-	- 3-way X3
-	- 50cm AAF12662
-	- 30cc syringe X3
+	- EICU
+		- A-line 없을 경우 → ALS04895
+		- Syrange X4
+		- 3-way X3
+		- 50cm AAF12662
+		- 30cc syringe X3
+	- **MICU** 
+		- 재료: AAF10920 FILTER, I.V IN LINE (TPN filter set → IOLIM7인 경우 )
+		- 재료: AAT10552 TRAY, DISPOSABLE (W/ADDGOFIX) x3
+		- 재료: AAN62295 NEOFIX (W/3-WAY) x2
+		- 재료: AAS53541 SYRINGE, PREFILED x4 
+		- 재료: Ample 제재, Direct Injection인 경우, cc에 맞춰서 개수대로 끊기
+		- IV 인 경우: WEGO 10ml fee 제외 
+		- AAF12795: 도지 수액세트
+		- AAF12797: 일반 수액세트 
+		- A-line 없는 경우: C-line 항목에서 ABGA syringe, 지혈밴드 끊기
 - CVP Monitoring
 	- 처치: 중심정맥압 측정
 	- Line 갈 경우: AAT09667
@@ -129,11 +140,14 @@
 	- 30cc  X4 AAN61190 
 - Infusion Pump(M)
 	- 처치: Infusion pump 사용료 / DM 환자 IHRIL 투여 시 → 처치항목 추가 
+	- 재료: fluid 종류 맞춰서 끊기
 - IV(M) 
 	- AAS53565 SYRINGE, PREFILLED (W/OPI VISIBLE IV) x3 
 	- AAN62297 needless connector x3
 - Foley 
-	- 고정대: 
+	- 처치 fee 없음 
+	- Bottle 재료 
+		- cf) 토, 일은 1개로 2일 사용 → 일요일은 fee 안끊음 
 	- bladder scan 한 경우 EZ754A
 - FMC
 	- 처치: O7002 지속적 경정맥 혈액투석여과
@@ -148,11 +162,15 @@
 		- 재료: CATHETER, CLOSED SUCTION (ENDO TUBE용)
 	- EtCO2(M)
 		- 처치: F6040 Capnography(1일당)
-		- 재료: AAL41074 LINE, INTUBATED FILTER(MICROSTREAM, 2M) / 💡ETCO2 line 교체시만 끊기(3일에 한번, 교환일 이전 malfunction 시 교환 ❌) 
+		- 재료: AAL41074 LINE, INTUBATED FILTER(MICROSTREAM, 2M) / 💡ETCO2 line 교체시만 끊기(3일에 한번, 교환일 이전 malfunction 시 교환 ❌) / 💡EtCO2 Module monitor 적용 가능한 대상만
+		- EtCO2 module 없는 경우 → emma 사용하여 5am/하루 1회 EtCO2 측정 하여 V/S 6am 기재 (처치 fee) 
 	- E-tube(M)
 		- 처치: M0135 suction general(중환자실 입원) x3
-		- 처치: M5920A Endotracheal Irrigation(1일당) x3
+		- 처치: M5920A Endotracheal Irrigation(1일당) x1
 		- 처치: SSX360 Cuff Pressure Controller[건]
+		- 재료: E-tube holder 교체 q3day 
+		- 치아(+): 9800 → Bite block E-tube 손상 방지
+		- 치아(-): 9799
 	- Nebulizer treatment (12시간 미만일 경우: X)
 - High flow(M)
 	- 약제: IDISTLP 중외멸균주사용증류수 1L/BAG
@@ -207,3 +225,6 @@
 	- M0045 Nebulizer treatment (vent 하고 있는 사람 12시간 초과일 경우 ❌)
 	- AAN02164 NEBULIZER, DISPO 
 	- AAN02128
+
+## MICU 
+C-line 

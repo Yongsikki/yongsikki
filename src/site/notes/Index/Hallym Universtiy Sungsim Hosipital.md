@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-09-14T11:28:16.000+09:00","updated":"2025-10-05T16:34:20.894+09:00"}
+{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-09-14T11:28:16.000+09:00","updated":"2025-10-13T12:27:34.890+09:00"}
 ---
 
 ## [[Index/입사 체크리스트\|입사 체크리스트]]
@@ -20,6 +20,7 @@
 - [[Index/Request Narcotics\|Request Narcotics]]
 - [[Index/Pre OP & Post OP\|Pre OP & Post OP]]
 - [[Source/Transfer & Admission\|Transfer & Admission]]
+- [[Index/After-death care\|After-death care]]
 ## 이론
 - [[Index/CRRT\|CRRT]]
 - [[Source/Ventilator\|Ventilator]]
