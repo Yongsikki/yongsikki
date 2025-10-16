@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/fee/","tags":["emr","source"],"created":"2025-09-08T19:27:44.000+09:00","updated":"2025-10-12T19:49:11.718+09:00"}
+{"dg-publish":true,"permalink":"/source/fee/","tags":["emr","source"],"created":"2025-09-08T19:27:44.000+09:00","updated":"2025-10-16T16:51:06.885+09:00"}
 ---
 
 # Insert Fee
@@ -112,8 +112,9 @@
 # Night Fee
 - 💡야간 해제 
 - A-line(M)
-	- EX874
-	- ALS04895
+	- 처치: EX874 Invasive Aterial Blood Pressure(1일당)-처치용 검사 x1 
+	- 재료: ALS04895 SYRINGE, ABGA, SAFTEY x2
+	- 재료: AAB11030 BAND, ADFLEX-SI (지혈밴드) 45x100 x2
 - C-line(M)
 	- EICU
 		- A-line 없을 경우 → ALS04895
@@ -122,11 +123,16 @@
 		- 50cm AAF12662
 		- 30cc syringe X3
 	- **MICU** 
+		- 재료: AAF12797 FILTER SET, I.V 
 		- 재료: AAF10920 FILTER, I.V IN LINE (TPN filter set → IOLIM7인 경우 )
 		- 재료: AAT10552 TRAY, DISPOSABLE (W/ADDGOFIX) x3
 		- 재료: AAN62295 NEOFIX (W/3-WAY) x2
 		- 재료: AAS53541 SYRINGE, PREFILED x4 
-		- 재료: Ample 제재, Direct Injection인 경우, cc에 맞춰서 개수대로 끊기
+		- 재료: AAC70090 Connector, Needless
+		- TPN filter 
+			- 재료: AAF11100 FILTER. I.V SET용 [ELD96LYL] (투명)
+			- 재료: AAF11180 FILTER, I.V SET용(PALL) [TNA2E] (불투명) 
+		- 재료: SYRINGE, FILTER → Ample 제재, Direct Injection인 경우, cc에 맞춰서 개수대로 끊기
 		- IV 인 경우: WEGO 10ml fee 제외 
 		- AAF12795: 도지 수액세트
 		- AAF12797: 일반 수액세트 
@@ -195,6 +201,7 @@
 	- Enema Syringe:  식사 당 2개: (residual 확인용, 식사용)
 	- 당뇨 관급식 RST = line fee 안끊어도 됨. 
 	- 그린비아 = 통 + line  fee
+	- 재료: AAM70 MULTIFIX II-L (L-tube용) 
 	- Drain 할 경우 Drain fee 따로 항목 추가
 	- PO만 할 경우: nasogastric feeding
 	- PO + 식이 할 경우: 경장영양 펌프까지
@@ -202,6 +209,17 @@
 	- 자동으로 체크 되어 있음 → 교체 주기 아니면🚨체크 해제
 	- AAV03650 (K-bac)
 	- ACF-vac
+- Tracheostomy(M)
+	- 처치: M0135A Tracheostomy suction(중환자실 입원) x3 
+	- 처치: SSX360 Cuff Pressure Controller x1
+	- 처치: M5920A Endotracheal Irrigation(1일당) x1 
+	- 재료: AAH44070 HOLDER, TRACHEOSTOMY TUBE (HM HOLDER) = O2 OP 환자용
+	- 재료: AAH44075 HOLDER, TRACHEOSTOMY TUBE (Tracoe care) = T-tube 고정끈 
+		- 3일마다 교환 
+- NIV(Y) 
+	- 약제 IDISTLP 
+	- 처치: M0040 Oxygen Inhalation(1일당)
+	- 처치: MM400 BIPAP Treatment(1일당) 
 
 - 호흡간호(Y) = O2하고 있을 경우 → Y → Gas fee / 안하고 있을 경우 → DO
 	- 처치: Oxygen Inhalation(1일당) 

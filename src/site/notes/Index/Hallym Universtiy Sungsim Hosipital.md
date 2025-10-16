@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-09-14T11:28:16.000+09:00","updated":"2025-10-13T12:27:34.890+09:00"}
+{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-09-14T11:28:16.000+09:00","updated":"2025-10-14T11:13:25.236+09:00"}
 ---
 
 ## [[Index/입사 체크리스트\|입사 체크리스트]]
@@ -22,6 +22,7 @@
 - [[Source/Transfer & Admission\|Transfer & Admission]]
 - [[Index/After-death care\|After-death care]]
 ## 이론
+- [[Index/LOC & GCS\|LOC & GCS]]
 - [[Index/CRRT\|CRRT]]
 - [[Source/Ventilator\|Ventilator]]
 - [[Source/High Flow\|High Flow]]

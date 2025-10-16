@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/micu/","created":"2025-10-03T09:34:58.124+09:00","updated":"2025-10-12T17:37:19.726+09:00"}
+{"dg-publish":true,"permalink":"/index/micu/","created":"2025-10-03T09:34:58.124+09:00","updated":"2025-10-14T10:19:44.351+09:00"}
 ---
 
 
@@ -46,11 +46,17 @@ MICU EMR 정리
 	- EGD permission 필요함 SMS → 기록 
 - Noti 
 	- ~ 상기 내용을 staff. ~에게 SMS 알림. 
+	- ACCNT noti 기준
+		- 내과 당직의가 교수님일 경우 → ACCNT 선생님 먼저 확인 
+		- 처방에 대해 모르는거 있을 때 
+		- connect 용 처방 부족할 때 ex) E#1 
+		- 검사 이동 시 - ACCNT keep 
 - 마약
 	- I/O 처방항목 살리기 
 - Routine
 	- PLR
 		- D: 8am, 11am / E: 3pm, 7pm / N: 10pm, 3am 
+- Servo-U pre use test
 
 10/3 놓친 것 
 - 약물 remain 적을 경우 처방 받아 놓기 
@@ -68,3 +74,15 @@ MICU EMR 정리
 - 다음 duty BST 발행 
 
 - 정맥주사 팀 의뢰 
+
+10/13 놓친 것
+- BST 발행 확인 
+- IDMDT 추가 처방
+- 강박 기록 
+- 식이 용량 확인 
+- eye & mouth care 시 점안액 
+- back care 시 cream 도포 
+- 식간물 & 식이 → charting 밑 residual 
+- ACCNT noti 후 INEPI20 5cc/hr start 한것 기록 
+- I/O PTGBD, L-tube 
+- pupil 인계장 정리 
