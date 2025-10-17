@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-09-14T11:28:16.000+09:00","updated":"2025-10-14T11:13:25.236+09:00"}
+{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-09-14T11:28:16.000+09:00","updated":"2025-10-17T18:32:29.900+09:00"}
 ---
 
 ## [[Index/입사 체크리스트\|입사 체크리스트]]
@@ -21,6 +21,8 @@
 - [[Index/Pre OP & Post OP\|Pre OP & Post OP]]
 - [[Source/Transfer & Admission\|Transfer & Admission]]
 - [[Index/After-death care\|After-death care]]
+- [[Index/H-stick\|H-stick]]
+- [[Index/Order Copy\|Order Copy]]
 ## 이론
 - [[Index/LOC & GCS\|LOC & GCS]]
 - [[Index/CRRT\|CRRT]]

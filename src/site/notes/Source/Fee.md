@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/fee/","tags":["emr","source"],"created":"2025-09-08T19:27:44.000+09:00","updated":"2025-10-16T16:51:06.885+09:00"}
+{"dg-publish":true,"permalink":"/source/fee/","tags":["emr","source"],"created":"2025-09-08T19:27:44.000+09:00","updated":"2025-10-17T18:24:34.696+09:00"}
 ---
 
 # Insert Fee
@@ -23,7 +23,7 @@
 - C-line: I💡QCS BSI 하기 
 	- 처치 O1659A (준) CVP Catheter Insert
 	- 재료 AAP00280 PACK. CENTRAL LINE(상체 + 대퇴부) 
-	- 재료 AAC74565 COVER, PROTECTIVE TRANSDUCER (CJ7524L) 
+	- 재료 AAC74565 COVER, PROTECTIVE TRANSDUCER (CJ7524L) 1
 	- 재료 ASN13200 NYLON(NB324){#3-0} [B0003006]
 	- ILIDO2A 썼으면 → 약제 ILDO2A 2% HUONS LIDOCAINE HCL INJ. 5ML/A
 	- 사용한 C-ine Lumen에 맞게 check (꼭 물어보기)
@@ -41,14 +41,15 @@
 	- 💡cover = sono 보면서 insert 했을 경우
 	- 💡H-stick은 사용한 cm + wire 까지(꼭 잘 확인)
 	- 약제 ILIDO2A
-	- 처치 07017 HD 위한 카테터삽입술(쇄고하정맥, 비터널-기타)
+	- 처치 07017 HD 위한 카테터삽입술(쇄골하정맥, 비터널-기타)
 	- 처치 07018 Intravenous Catheterization for HD(Femoral Vein)
 	- 재료 AAT04385 TEGADERM CHG [8.5*11.5CM] or [10*12CM]
 	- 재료 AAC&4565 COVER, PROTECTIVE TRANSDUCER (CJ7524L) 15*120CM
 	- 재료 ASN13200 NYLON (NB324)[#3-0]
 	- 재료 AAP00280 PACK, CENTRAL LINE(상체+대퇴부)
 	- 재료 AAC3183,,, CATHETER, HEMODIALYSIS(💡15cm, 20cm, 24cm)
-	- 재료 AAW15,,, WIRE, GUADE FOR HEMODIALYSIS 
+		- femoral: 30cm / jugular 15cm
+	- 재료 AAW15,,, WIRE, GUIDE FOR HEMODIALYSIS 
 
 > [!NOTE] H-stick(8)
 > 처치x2 - 삽입 부위, Intravenous Cath
@@ -244,5 +245,14 @@
 	- AAN02164 NEBULIZER, DISPO 
 	- AAN02128
 
-## MICU 
-C-line 
+- 수액 라인
+	- TPN filter 
+		- 혼탁한: TNA2E
+		- 투명: ELD964YL
+		- CUROS RED
+	- DOSI: AAF12795
+	- 일반: AAF12797
+	- 인퓨전(비브라운): AAF12745
+- Enema
+	- 글리세린: rectal massage
+	- BISAR: 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/micu/","created":"2025-10-03T09:34:58.124+09:00","updated":"2025-10-14T10:19:44.351+09:00"}
+{"dg-publish":true,"permalink":"/index/micu/","created":"2025-10-03T09:34:58.124+09:00","updated":"2025-10-17T18:27:17.112+09:00"}
 ---
 
 
@@ -86,3 +86,31 @@ MICU EMR 정리
 - ACCNT noti 후 INEPI20 5cc/hr start 한것 기록 
 - I/O PTGBD, L-tube 
 - pupil 인계장 정리 
+
+10/16 
+- 야식
+- INPEI 증감량 
+- order copy 
+	- anti H → 삭제 
+	- CRE 살리기 
+	- 다음날 6시 V/S 항목 살리기 
+- 약카드 & 바코드
+	- over ~hr 항목 작성 
+	- EKG 출력 
+	- BST 발행 
+- 처방 항목 & I/O
+	- continuous 항목 넘기기 ex) RI, INEPI 등 
+	- Anti: K 표시 
+	- neb q 6hr 표시 
+- 간호활동
+	- Dx 후 날짜 변경 → 인계시스템에도 정리 
+- fee
+	- TPN filter set fee 
+	- 예방적 Dx = 처치 fee (x) 
+	- suction bottle fee = 아래꺼 (bandage)
+- 인계 
+	- anti 변경 사항
+	- 타병원 CRE일 경우 인계 
+- 간호정보 조사지
+	- 보호자 몇째 자녀인지 기록
+	- 수술, 과거력 년도 기입
