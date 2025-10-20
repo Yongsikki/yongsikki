@@ -1,7 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/source/blood-transfusion/","tags":["acting","source"],"created":"2025-09-14T11:27:14.000+09:00","updated":"2025-10-08T00:05:06.733+09:00"}
+{"dg-publish":true,"permalink":"/source/blood-transfusion/","tags":["acting","source"],"created":"2025-09-14T11:27:14.000+09:00","updated":"2025-10-20T20:27:30.449+09:00"}
 ---
 
+## 수혈 전 확인 checklist 
+- [ ] 동의서 확인
+- [ ] V/S(BT) 확인 
+- [ ] 혈액형, Cross match 결과 확인
+## Flow 
 1. 📝동의서 확인
 	1. 💻전산: 병동간호 ➡️전자동의서 
 2. 수혈 준비요청 - 💻전산(수혈 의뢰프로그램) / 📞혈액은행 유선상 요청 
@@ -22,7 +27,11 @@
 > 지켜보는 동안 깍지 서명, 스테이플러
 > 완료되면 스테이션 오른쪽 아래 깍지 + 혈액은행에서 받은 종이 보관
 
-
+## 수혈 후 
+- [ ] 간호활동 수혈 항목 추가
+- [ ] Fee
+	- [ ] infusion pump fee 
+	- [ ] filter set fee (blood or PC)
 ## PC 수혈
 >[!NOTE]
 > 🚨거의 10분 안에 들어가니까 옆에서 지켜보고 있기
@@ -30,3 +39,6 @@
 > PC 주입 지켜보는 동안 
 
 ### 수혈 기록특이 사항 기록 
+- 보통: 무 
+- IPACT1 투여 시 기록
+- ICPR 투여 시 기록

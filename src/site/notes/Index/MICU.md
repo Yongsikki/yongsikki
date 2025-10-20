@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/micu/","created":"2025-10-03T09:34:58.124+09:00","updated":"2025-10-17T18:27:17.112+09:00"}
+{"dg-publish":true,"permalink":"/index/micu/","created":"2025-10-03T09:34:58.124+09:00","updated":"2025-10-20T20:53:53.977+09:00"}
 ---
 
 
@@ -57,6 +57,28 @@ MICU EMR 정리
 	- PLR
 		- D: 8am, 11am / E: 3pm, 7pm / N: 10pm, 3am 
 - Servo-U pre use test
+- Sore & wound dressing 
+	- 간호활동 연계처방으로 fee
+		- 복잡: 2곳 보다 많을 경우 2개 
+		- 단순: 2곳 이하일 경우
+		- 재료: 사용한 재료대
+		- 재료: Tray 
+	- 간호 활동 & 인계시스템 날짜 정리
+	- [[Bone marrow 검사\|Bone marrow 검사]] 등  검사 후 상처도 CCNS 말해서 Dx 실시
+- 강박 & 신체보호대 
+	- Mx 필요 → 없을 시 ACCNT 
+	- 적용 후 신체보호대 fee 
+	- 시작 시 
+		- V/S 입력 
+		- 처치 칸 = 공란 
+		- 간호활동 = 전부 다 선택 
+		- 다음 기록 부터는 주치의 당직보고 체크 해제 
+- CT 보낼 때
+	- IV route 확인 
+	- N/S keep vein 상태로 보냄 → INSLP3 처치 fee 
+- TB 검사 
+	- 검체 용기 따로 있어서 진단검사실에서 받아와야함 → 보조원 님 부탁
+
 
 10/3 놓친 것 
 - 약물 remain 적을 경우 처방 받아 놓기 
@@ -89,7 +111,7 @@ MICU EMR 정리
 
 10/16 
 - 야식
-- INPEI 증감량 
+- INEPI 증감량 
 - order copy 
 	- anti H → 삭제 
 	- CRE 살리기 
@@ -114,3 +136,17 @@ MICU EMR 정리
 - 간호정보 조사지
 	- 보호자 몇째 자녀인지 기록
 	- 수술, 과거력 년도 기입
+
+10/20 
+- IPACT 투여 후 수혈할 경우 → 체온 낮아져 시작함을 기록
+- IPACT 투여 시 NS 처치 fee
+- HF 시작하는 경우
+	- 간호활동: HF 항목 추가 → Y 
+		- Circuit & Humidifier, WIFI 준비 
+		- circuit 2주마다 교환 → 처치 예정일 설정
+		- WIFI
+- over ~hr 약물 투여 시S용식/하늘 기록 → F(수액 I/O 입력)
+- M/S B:drowsy → RASS: -1 / M/S:A → RASS: 0 
+- sore dressing 사진 누락
+- PO 시간 밀림 
+
