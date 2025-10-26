@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/micu/","created":"2025-10-03T09:34:58.124+09:00","updated":"2025-10-20T20:53:53.977+09:00"}
+{"dg-publish":true,"permalink":"/index/micu/","created":"2025-10-03T09:34:58.124+09:00","updated":"2025-10-26T11:55:20.942+09:00"}
 ---
 
 
@@ -150,3 +150,10 @@ MICU EMR 정리
 - sore dressing 사진 누락
 - PO 시간 밀림 
 
+10/25
+- BST q2hr f/u 8pm 
+- CRRT bag 교환 기록 
+- Weaning 시 O2 fee 
+- 미보고 검사 → 결과 확인 후 인계장 정리 ex) CRE 
+- CCNS wound dx 사진 촬영 
+- 

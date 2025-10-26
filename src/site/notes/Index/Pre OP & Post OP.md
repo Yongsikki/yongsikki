@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/pre-op-and-post-op/","created":"2025-09-09T20:13:22.000+09:00","updated":"2025-10-20T21:12:11.488+09:00"}
+{"dg-publish":true,"permalink":"/index/pre-op-and-post-op/","created":"2025-09-09T20:13:22.000+09:00","updated":"2025-10-21T17:11:35.731+09:00"}
 ---
 
 # Pre OP 
@@ -17,4 +17,6 @@
 	3. BS 측정표 = 안함❌
 
 # Post OP 
-1. 계획 종료 
+1. BP, EKG, JP drainage 
+2. 간호 과정 수립 
+3. 계획 종료 

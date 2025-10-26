@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/fee/","tags":["emr","source"],"created":"2025-09-08T19:27:44.000+09:00","updated":"2025-10-17T18:24:34.696+09:00"}
+{"dg-publish":true,"permalink":"/source/fee/","tags":["emr","source"],"created":"2025-09-08T19:27:44.000+09:00","updated":"2025-10-26T11:59:28.494+09:00"}
 ---
 
 # Insert Fee
@@ -129,7 +129,7 @@
 		- 재료: AAT10552 TRAY, DISPOSABLE (W/ADDGOFIX) x3
 		- 재료: AAN62295 NEOFIX (W/3-WAY) x2
 		- 재료: AAS53541 SYRINGE, PREFILED x4 
-		- 재료: AAC70090 Connector, Needless
+		- 재료: AAC70090 Connector, Needless / 월, 목 만 
 		- TPN filter 
 			- 재료: AAF11100 FILTER. I.V SET용 [ELD96LYL] (투명)
 			- 재료: AAF11180 FILTER, I.V SET용(PALL) [TNA2E] (불투명) 
@@ -233,7 +233,7 @@
 	- ECG
 	- BP
 	- O2
-	- AAE08108 EKG Lead = check 빼기(사용한 경우만) 
+	- AAE08108 EKG Lead = check 빼기(사용한 경우만) / 짝수날 마다 
 - Perineal care/F-site Dx(Y)
 	- 처치: M0151 Perneal Care(1일당)
 - Embolic stocking(Y)
