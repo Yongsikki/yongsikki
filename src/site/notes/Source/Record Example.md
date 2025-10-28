@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/record-example/","tags":["emr","source"],"created":"2025-09-09T20:16:54.000+09:00","updated":"2025-10-12T17:51:51.818+09:00"}
+{"dg-publish":true,"permalink":"/source/record-example/","tags":["emr","source"],"created":"2025-09-09T20:16:54.000+09:00","updated":"2025-10-28T18:53:28.416+09:00"}
 ---
 
 ## Routine
@@ -20,13 +20,29 @@ T/P/P 사정 시 이름 외 지남력 부족해 정보 제공함.
 	  산소포화도 측정부위 이상없음을 확인함.
 	- ---
 	- Lt. chest CTP keep stae. W.S 및 개방성 확인함. 
+
+## Routine Charting 
 - high fever none. 
 - hair shampoo done. 
 - 특이호소 없이 수면 중임. 
 - M/S & PLR change none. 
+
+## Back care
 - back massage & position change done. 
   욕창 예방위해 엘타폼 bathing 시행 후 엘타실 도포함. 
   지속적으로 습기관리 및 피부상태 관찰 시행함. 
+
+- MICU
+- back care & back massage함
+  sore 예방 위해 엘타실 도포함 
+  엘타폼 이용하여 rectal bathing 함
+  position change 함
+  
+  *sore 
+  #1 Rt foot 1st, 5th toe necrotic dx 되어있음.
+  #2 coccyx 2*2 abrasion dressing 되어 있음. 
+  
+  헥시 와입스 이용하여 bathing 시행함.   ← 접촉주의 환자의 경우 매일 N 때 bathing 시행
 ## O2
 - O2 free 상태로 dyspnea 호소 없이 SpO2 96% 이상 유지중임. 
 - Sedation 중일 경우
@@ -97,3 +113,21 @@ sudden SPO2 80%까지 저하 보이며
 - CTD 개방성 자주 확인함. 
   bloody한 양상으로 배액중임. 
 
+# CRRT 
+- Bag 교체 
+	- CRRT
+	  PRIS2K 1K401 0.25A mixed replacement, PHXD5 simple dialysis에 연결함. (d/t K 3.8, P 2.9) 
+	- CRRT
+	  PRIS2K simple replacement, PHXD5 simple dialysis에 연결함. (d/t K 4.1, P 2.4)
+	- Priming
+		- CRRT priming finished. 
+		  pre mode
+		  dialysate 1000cc/hr
+		  replacement 1000cc/hr./
+		  BFR 150cc/hr./
+		  Pt removal 100cc/hr./
+		  anticoagulation 5.0cc/hr./
+		  PBP 0cc/hr 
+		  
+		  PHXD5 simple dialysis, replacement에 연결함. (d/t K , P )
+		  기존 INAFA50 fluid 연결함. by mx 

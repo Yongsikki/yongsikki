@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-09-14T11:28:16.000+09:00","updated":"2025-10-20T20:32:39.609+09:00"}
+{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-09-14T11:28:16.000+09:00","updated":"2025-10-27T17:28:44.708+09:00"}
 ---
 
 ## [[Index/입사 체크리스트\|입사 체크리스트]]
@@ -27,6 +27,7 @@
 - [[Index/Certificates & Documents\|Certificates & Documents]]
 - [[Consent Form\|Consent Form]]
 - [[CT\|CT]]
+- [[Index/Order Copy\|Order Copy]]
 ## 이론
 - [[Index/LOC & GCS\|LOC & GCS]]
 - [[Index/CRRT\|CRRT]]

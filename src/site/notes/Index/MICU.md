@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/micu/","created":"2025-10-03T09:34:58.124+09:00","updated":"2025-10-26T11:55:20.942+09:00"}
+{"dg-publish":true,"permalink":"/index/micu/","created":"2025-10-03T09:34:58.124+09:00","updated":"2025-10-28T18:33:26.819+09:00"}
 ---
 
 
@@ -156,4 +156,13 @@ MICU EMR 정리
 - Weaning 시 O2 fee 
 - 미보고 검사 → 결과 확인 후 인계장 정리 ex) CRE 
 - CCNS wound dx 사진 촬영 
-- 
+
+10/26
+- IV line 뽑음 
+- IV route 관찰 
+- V/S main PC mode일 경우 → 호흡 수 확인 
+- 전 듀티 I/O 확인 
+
+10/28 
+- 내시경(EGD) 검사 할 경우 → 인계시스템 살리기 / 동의서 확인 & 동의서 받은 후 간호 기록;
+- CRRT K, P → 정규 lab 확인 후 반납
