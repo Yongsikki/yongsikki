@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-09-14T11:28:16.000+09:00","updated":"2025-10-27T17:28:44.708+09:00"}
+{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-09-14T11:28:16.000+09:00","updated":"2025-11-12T18:36:05.561+09:00"}
 ---
 
 ## [[Index/입사 체크리스트\|입사 체크리스트]]
@@ -10,6 +10,7 @@
 ## Acting
 - [[Source/Working Flow\|Working Flow]]
 - [[Source/🩸Blood Transfusion\|🩸Blood Transfusion]]
+- [[Index/Mistake Log\|Mistake Log]]
 
 ## EMR
 - [[Source/Record Example\|Record Example]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/archive/","tags":["digitalgarden","gardenEntry"],"created":"2025-09-14T11:37:38.000+09:00","updated":"2025-09-30T15:53:05.150+09:00"}
+{"dg-publish":true,"permalink":"/archive/","tags":["digitalgarden","gardenEntry"],"created":"2025-09-14T11:37:38.000+09:00","updated":"2025-11-16T11:03:49.705+09:00"}
 ---
 
 ## 🧠 Notes
@@ -15,7 +15,7 @@
 > 📘 [[Source/Math\|Math]] — *How to Prove It*
 ⚛️ [[Index/Physics\|Physics]] — *Six Easy Pieces*
 🌊 [[Marine Biology\|Marine Biology]] — *Intro to Marine Biology*
-🇦🇺 [[Learning Aussie English\|Learning Aussie English]] — YouTube + Podcast 
+🇦🇺 [[Index/Learning Language\|Learning Language]] — YouTube + Podcast 
 
 ### 🎓 Studies
 - 🌊 [[Marine Biology\|Marine Biology]]
@@ -34,7 +34,7 @@
 - 📑 [[Notetaking\|Notetaking]]
 - 📕 Book 
 - 🎧 [[Podcast\|Podcast]]
-- 🎥 [[Movie\|Movie]]
+- 🎥 [[Index/Movie\|Movie]]
 
 ## 💾Archive
 [[Index/Utopia\|Utopia]]
@@ -44,6 +44,7 @@
 ### Hobbies
 ## 🐠[[Index/Diving\|Diving]] 
 ## ✈️Journey 
+- [[Index/Paju\|Paju]]
 - [[Index/Philippines-Bohol(14.08.2024~)\|Philippines-Bohol(14.08.2024~)]]
 - [[Airlie Beach\|Airlie Beach]]
 ## 📷Gallery 

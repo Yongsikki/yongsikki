@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/record-example/","tags":["emr","source"],"created":"2025-09-09T20:16:54.000+09:00","updated":"2025-10-28T18:53:28.416+09:00"}
+{"dg-publish":true,"permalink":"/source/record-example/","tags":["emr","source"],"created":"2025-09-09T20:16:54.000+09:00","updated":"2025-11-12T17:53:54.539+09:00"}
 ---
 
 ## Routine
@@ -50,6 +50,7 @@ T/P/P 사정 시 이름 외 지남력 부족해 정보 제공함.
   stool 150g 봄.  
   anus site 마데카솔 파우더 도포함. 
 - 집중관찰중임. 
+- 
 # 회진
 - ECT 환자 봄. 
 	- ABP 50~60대 측정되어 f/u한 68/60mmHg 측정됨을 확인함. 
@@ -107,8 +108,6 @@ prep 된 IFURO 0.5A skip함. by Mx
 ## Noti 
 sudden SPO2 80%까지 저하 보이며
 
-
-
 # CTD
 - CTD 개방성 자주 확인함. 
   bloody한 양상으로 배액중임. 
@@ -116,7 +115,7 @@ sudden SPO2 80%까지 저하 보이며
 # CRRT 
 - Bag 교체 
 	- CRRT
-	  PRIS2K 1K401 0.25A mixed replacement, PHXD5 simple dialysis에 연결함. (d/t K 3.8, P 2.9) 
+	  PRIS2K IK401 0.25A mixed replacement, PHXD5 simple dialysis에 연결함. (d/t K 3.8, P 2.9) 
 	- CRRT
 	  PRIS2K simple replacement, PHXD5 simple dialysis에 연결함. (d/t K 4.1, P 2.4)
 	- Priming
@@ -131,3 +130,16 @@ sudden SPO2 80%까지 저하 보이며
 		  
 		  PHXD5 simple dialysis, replacement에 연결함. (d/t K , P )
 		  기존 INAFA50 fluid 연결함. by mx 
+
+# A-line
+- Remove 시 
+	- Lt.radial A-line site tingling 호소함. 
+	- Lt.dorsal A-line remove 후 compression 시행함.
+
+# IV
+Rt.hand IV 22G remove site ice bag * 1 및 EB rolling 적용 후 Rt.arm 통증 완화 됨. 
+Lt.radial A-line remove 후 site tingling 호전되었다 함. 
+
+# Swelling
+- Lt.arm 전체적으로 EB rolling 함.
+- Lt.arm & Lt.leg elevation 함. 
