@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/amantadine-aman/","tags":["template"],"created":"2025-09-23T20:42:06.000+09:00","updated":"2025-09-30T15:53:06.975+09:00"}
+{"dg-publish":true,"permalink":"/index/amantadine-aman/","tags":["template"],"created":"2025-12-11T19:57:08.392+10:00","updated":"2025-12-11T19:57:08.392+10:00"}
 ---
 
 1. 약품명: 피케이멜즈 / P.K Merz Tab.100mg

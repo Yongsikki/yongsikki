@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/transfer-and-admission/","tags":["emr","source"],"created":"2025-09-09T19:45:12.000+09:00","updated":"2025-10-12T18:48:14.350+09:00"}
+{"dg-publish":true,"permalink":"/source/transfer-and-admission/","tags":["emr","source"],"created":"2025-12-11T19:57:08.436+10:00","updated":"2025-12-11T19:57:08.436+10:00"}
 ---
 
 ## ER 에서 받을 경우 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/pre-op-and-post-op/","created":"2025-09-09T20:13:22.000+09:00","updated":"2025-10-21T17:11:35.731+09:00"}
+{"dg-publish":true,"permalink":"/index/pre-op-and-post-op/","created":"2025-12-11T19:57:08.392+10:00","updated":"2025-12-11T19:57:08.392+10:00"}
 ---
 
 # Pre OP 

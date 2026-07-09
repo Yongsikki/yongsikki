@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/iepr-60-s-1/","tags":["study_note","source"],"created":"2025-08-20T10:46:28.000+09:00","updated":"2025-09-30T15:53:08.574+09:00"}
+{"dg-publish":true,"permalink":"/source/iepr-60-s-1/","tags":["study_note","source"],"created":"2025-12-11T19:57:08.427+10:00","updated":"2025-12-11T19:57:08.427+10:00"}
 ---
 
 ## CLEXANE INJ. 60mg(enoxaparin sodium)

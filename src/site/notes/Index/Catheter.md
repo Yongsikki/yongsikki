@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/catheter/","created":"2025-08-23T22:43:08.000+09:00","updated":"2025-09-30T16:17:29.697+09:00"}
+{"dg-publish":true,"permalink":"/index/catheter/","created":"2025-12-11T19:57:08.376+10:00","updated":"2025-12-11T19:57:08.376+10:00"}
 ---
 
 # Central Venous Catheter

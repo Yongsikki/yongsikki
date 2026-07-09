@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/blood-transfusion/","tags":["acting","source"],"created":"2025-09-14T11:27:14.000+09:00","updated":"2025-10-20T20:27:30.449+09:00"}
+{"dg-publish":true,"permalink":"/source/blood-transfusion/","tags":["acting","source"],"created":"2025-12-11T19:57:08.436+10:00","updated":"2025-12-11T19:57:08.436+10:00"}
 ---
 
 ## 수혈 전 확인 checklist 

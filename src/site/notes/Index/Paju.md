@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/paju/","created":"2025-11-16T10:39:17.066+09:00","updated":"2025-11-16T11:03:09.307+09:00"}
+{"dg-publish":true,"permalink":"/index/paju/","created":"2025-12-11T19:57:08.392+10:00","updated":"2025-12-11T19:57:08.392+10:00"}
 ---
 
 ## 맛집

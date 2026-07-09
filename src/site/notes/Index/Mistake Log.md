@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/mistake-log/","created":"2025-11-12T18:36:06.978+09:00","updated":"2025-11-12T18:36:31.135+09:00"}
+{"dg-publish":true,"permalink":"/index/mistake-log/","created":"2025-12-11T19:57:08.376+10:00","updated":"2025-12-11T19:57:08.376+10:00"}
 ---
 
 10/3 놓친 것 

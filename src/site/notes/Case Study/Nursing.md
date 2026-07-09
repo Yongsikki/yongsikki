@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/case-study/nursing/","created":"2025-08-19T12:07:06.000+09:00","updated":"2025-09-30T15:53:06.828+09:00"}
+{"dg-publish":true,"permalink":"/case-study/nursing/","created":"2025-12-11T19:57:08.332+10:00","updated":"2025-12-11T19:57:08.332+10:00"}
 ---
 
 
@@ -27,3 +27,6 @@ FROM #emr
 SORT file.mtime DESC
 ```
 
+
+# Program 
+- Scheduling program: Matron 

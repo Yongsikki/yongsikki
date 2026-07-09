@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-09-14T11:28:16.000+09:00","updated":"2025-11-12T18:36:05.561+09:00"}
+{"dg-publish":true,"permalink":"/index/hallym-universtiy-sungsim-hosipital/","created":"2025-12-11T19:57:08.376+10:00","updated":"2025-12-11T19:57:08.376+10:00"}
 ---
 
 ## [[Index/입사 체크리스트\|입사 체크리스트]]
@@ -37,6 +37,7 @@
 - [[Source/CTD & PCD\|CTD & PCD]]
 - [[Index/Catheter\|Catheter]]
 - [[Source/TTM(Targeted Temperature Management)\|TTM(Targeted Temperature Management)]]
+- [[Source/PPM_ICD_mode\|PPM_ICD_mode]]
 
 
 BST 발행 취소

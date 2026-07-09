@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/h-stick/","created":"2025-10-17T17:50:41.859+09:00","updated":"2025-10-17T18:03:30.755+09:00"}
+{"dg-publish":true,"permalink":"/index/h-stick/","created":"2025-12-11T19:57:08.376+10:00","updated":"2025-12-11T19:57:08.376+10:00"}
 ---
 
 - 처치: Intravenous catheterization for HD

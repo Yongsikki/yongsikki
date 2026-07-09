@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/itrax-51-4/","tags":["study_note","source"],"created":"2025-08-20T10:46:24.000+09:00","updated":"2025-09-30T15:53:08.638+09:00"}
+{"dg-publish":true,"permalink":"/source/itrax-51-4/","tags":["study_note","source"],"created":"2025-12-11T19:57:08.436+10:00","updated":"2025-12-11T19:57:08.436+10:00"}
 ---
 
 ## TRANEXAMIC ACID INJ 500mg SHINPOONG(tranexamic acid)

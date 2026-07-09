@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/fee/","tags":["emr","source"],"created":"2025-09-08T19:27:44.000+09:00","updated":"2025-10-26T11:59:28.494+09:00"}
+{"dg-publish":true,"permalink":"/source/fee/","tags":["emr","source"],"created":"2025-12-11T19:57:08.427+10:00","updated":"2025-12-29T20:25:41.680+10:00"}
 ---
 
 # Insert Fee
@@ -123,6 +123,7 @@
 		- 3-way X3
 		- 50cm AAF12662
 		- 30cc syringe X3
+		- multi extension line: AAF12523
 	- **MICU** 
 		- 재료: AAF12797 FILTER SET, I.V 
 		- 재료: AAF10920 FILTER, I.V IN LINE (TPN filter set → IOLIM7인 경우 )

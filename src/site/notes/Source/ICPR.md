@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/icpr/","tags":["study_note","source"],"created":"2025-08-20T10:45:20.000+09:00","updated":"2025-09-30T15:53:08.561+09:00"}
+{"dg-publish":true,"permalink":"/source/icpr/","tags":["study_note","source"],"created":"2025-12-11T19:57:08.427+10:00","updated":"2025-12-11T19:57:08.427+10:00"}
 ---
 
 ## PENIRAMIN INJ 4mg/2ml/A

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/etymology/","tags":["source","study_note"],"created":"2025-04-08T21:13:24.000+09:00","updated":"2025-09-30T15:53:08.523+09:00"}
+{"dg-publish":true,"permalink":"/source/etymology/","tags":["source","study_note"],"created":"2025-12-11T19:57:08.427+10:00","updated":"2025-12-11T19:57:08.427+10:00"}
 ---
 
 ## ⚕️Medical 

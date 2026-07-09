@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/carbidopa-cldp-101/","created":"2025-09-10T19:44:30.000+09:00","updated":"2025-09-30T15:53:07.014+09:00"}
+{"dg-publish":true,"permalink":"/index/carbidopa-cldp-101/","created":"2025-12-11T19:57:08.392+10:00","updated":"2025-12-11T19:57:08.392+10:00"}
 ---
 
 약품명: 퍼킨정25-100mg(PERKIN TAB 25-100mg)

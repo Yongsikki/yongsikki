@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/pd/","created":"2025-09-08T11:25:34.000+09:00","updated":"2025-09-30T15:53:07.266+09:00"}
+{"dg-publish":true,"permalink":"/index/pd/","created":"2025-12-11T19:57:08.376+10:00","updated":"2025-12-11T19:57:08.376+10:00"}
 ---
 
 # CAPD(Continous Ambulatory Peritoneal Dialysis)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/request-narcotics/","created":"2025-09-09T20:17:04.000+09:00","updated":"2025-09-30T15:53:07.314+09:00"}
+{"dg-publish":true,"permalink":"/index/request-narcotics/","created":"2025-12-11T19:57:08.392+10:00","updated":"2025-12-11T19:57:08.392+10:00"}
 ---
 
 1. 병동간호

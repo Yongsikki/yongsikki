@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/record-example/","tags":["emr","source"],"created":"2025-09-09T20:16:54.000+09:00","updated":"2025-11-12T17:53:54.539+09:00"}
+{"dg-publish":true,"permalink":"/source/record-example/","tags":["emr","source"],"created":"2025-12-11T19:57:08.436+10:00","updated":"2025-12-11T19:57:08.436+10:00"}
 ---
 
 ## Routine

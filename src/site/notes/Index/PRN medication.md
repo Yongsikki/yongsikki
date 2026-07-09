@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/prn-medication/","created":"2025-10-20T19:46:36.456+09:00","updated":"2025-10-20T20:06:10.168+09:00"}
+{"dg-publish":true,"permalink":"/index/prn-medication/","created":"2025-12-11T19:57:08.376+10:00","updated":"2025-12-11T19:57:08.376+10:00"}
 ---
 
 1. 병동간호 → 처방

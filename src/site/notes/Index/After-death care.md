@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/after-death-care/","created":"2025-10-12T18:52:36.850+09:00","updated":"2025-10-12T19:07:38.972+09:00"}
+{"dg-publish":true,"permalink":"/index/after-death-care/","created":"2025-12-11T19:57:08.344+10:00","updated":"2025-12-11T19:57:08.344+10:00"}
 ---
 
 1. 기록 작성 (필수 4개) 

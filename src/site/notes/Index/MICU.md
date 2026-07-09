@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/micu/","created":"2025-10-03T09:34:58.124+09:00","updated":"2025-11-12T18:35:36.763+09:00"}
+{"dg-publish":true,"permalink":"/index/micu/","created":"2025-12-11T19:57:08.376+10:00","updated":"2025-12-11T19:57:08.376+10:00"}
 ---
 
 

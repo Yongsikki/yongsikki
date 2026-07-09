@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/ctd-and-pcd/","tags":["source"],"created":"2025-09-08T18:33:58.000+09:00","updated":"2025-09-30T15:53:08.495+09:00"}
+{"dg-publish":true,"permalink":"/source/ctd-and-pcd/","tags":["source"],"created":"2025-12-11T19:57:08.427+10:00","updated":"2025-12-11T19:57:08.427+10:00"}
 ---
 
 # CTD

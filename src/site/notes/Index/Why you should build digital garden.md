@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/why-you-should-build-digital-garden/","tags":["#topic"],"created":"2025-04-05T17:55:52.000+09:00","updated":"2025-09-30T15:53:07.455+09:00"}
+{"dg-publish":true,"permalink":"/index/why-you-should-build-digital-garden/","tags":["#topic"],"created":"2025-12-11T19:57:08.392+10:00","updated":"2025-12-11T19:57:08.392+10:00"}
 ---
 
 # What is a Digital Garden?

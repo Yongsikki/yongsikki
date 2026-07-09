@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/mycophenolate-mmf/","tags":["template"],"created":"2025-10-05T22:06:25.979+09:00","updated":"2025-10-05T22:07:41.591+09:00"}
+{"dg-publish":true,"permalink":"/index/mycophenolate-mmf/","tags":["template"],"created":"2025-12-11T19:57:08.392+10:00","updated":"2025-12-11T19:57:08.392+10:00"}
 ---
 
 1. 약품명: Mycophenolic acid, MMF

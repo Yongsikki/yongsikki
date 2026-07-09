@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/rrt/","created":"2025-09-08T11:26:54.000+09:00","updated":"2025-09-30T15:53:07.322+09:00"}
+{"dg-publish":true,"permalink":"/index/rrt/","created":"2025-12-11T19:57:08.392+10:00","updated":"2025-12-11T19:57:08.392+10:00"}
 ---
 
 [[Index/CRRT\|CRRT]]

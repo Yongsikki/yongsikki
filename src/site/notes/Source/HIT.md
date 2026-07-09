@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/hit/","tags":["study_note","source"],"created":"2025-09-08T11:30:46.000+09:00","updated":"2025-09-30T15:53:08.548+09:00"}
+{"dg-publish":true,"permalink":"/source/hit/","tags":["study_note","source"],"created":"2025-12-11T19:57:08.427+10:00","updated":"2025-12-11T19:57:08.427+10:00"}
 ---
 
 >[!정의]

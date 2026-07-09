@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/source/return-medication/","tags":["acting","source"],"created":"2025-09-08T18:34:24.000+09:00","updated":"2025-09-30T15:53:08.711+09:00"}
+{"dg-publish":true,"permalink":"/source/return-medication/","tags":["acting","source"],"created":"2025-12-11T19:57:08.436+10:00","updated":"2025-12-11T19:57:08.436+10:00"}
 ---
 
 전날 전산 → 처방코드 확인, 약깍지 때기(ex. prep)
